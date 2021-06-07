@@ -1,0 +1,94 @@
+{
+  "headerData": {
+    "title": "Dc Website",
+    "description": "Device Commerce Website",
+    "favicon": "/img/favicon.ico"
+  },
+  "header": {
+    "logo": "/img/logo.svg",
+    "navData": [
+      {
+        "name": "Features",
+        "link": "#features",
+        "order": 1,
+        "visible": true
+      },
+      {
+        "name": "Partners",
+        "link": "#partners",
+        "order": 2,
+        "visible": true
+      },
+      {
+        "name": "Pricing",
+        "link": "#pricing",
+        "order": 3,
+        "visible": false
+      }
+    ]
+  },
+  "general": {
+    "colorPalle": {
+      "theme": "#4AD382",
+      "bg1": "#FFFFFF",
+      "bg2": "#F3F4F6",
+      "greyScale200": "#E5E7EB",
+      "greyScale300": "#D1D5DB",
+      "greyScale400": "#9CA3AF",
+      "footerBg": "#132337",
+      "brandDark": "#465876",
+      "brandOxford": "#132337"
+    }
+  },
+  "main": {
+    "section1": {
+      "title": "Industry leading tech to better manage your mobile device repair shop",
+      "content": "High converting Google Ads-approved websites with end to end quote, appointment, inventory management software, and more. Gain control of your online presence, drive more traffic, and serve your customers better.",
+      "entering": "By entering your email, you are agreeing to our",
+      "bgImg": "/img/section1-bg-img.svg",
+      "img": "/img/section1-img.svg",
+      "button": {
+        "text": "Join the waitlist",
+        "iconName": "arrow-right"
+      }
+    },
+    "section2": {
+      "topic": {
+        "img": "/img/section2-flag.svg",
+        "text": "Proudly Canadian"
+      },
+      "title": "The repair industry revolutionized.",
+      "content": "An all-in-one solution for managing quotes, appointments, ecommerce, and marketing has been missing from the repair industry, until now. Device Commerce is built by shop owners for shop owners.",
+      "icons": [
+        {
+          "img": "/img/section2-icon-protect.svg",
+          "title": "99.9% Uptime",
+          "content": "Outperform your competition with a reliable, lightning-fast site.",
+          "visible": true,
+          "order": 1
+        },
+        {
+          "img": "/img/section2-icon-heart.svg",
+          "title": "Dedicated Support",
+          "content": "24/7 access to a dedicated support team across Canada.",
+          "visible": true,
+          "order": 2
+        },
+        {
+          "img": "/img/section2-icon-money.svg",
+          "title": "Sell More, Faster",
+          "content": "Intelligent tools that help you sell more and scale your business.",
+          "visible": true,
+          "order": 3
+        },
+        {
+          "img": "/img/section2-icon-people.svg",
+          "title": "Trusted Partners",
+          "content": "Gain access to an expansive network of trusted partners.",
+          "visible": true,
+          "order": 4
+        }
+      ]
+    }
+  }
+}

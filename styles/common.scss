@@ -1,0 +1,33 @@
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.main-title {
+  font-size: 48px;
+  line-height: 54px;
+  letter-spacing: -4%;
+  font-weight: 700;
+}
+
+.main-content {
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: -2%;
+}
+
+.flex {
+  display: flex;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}

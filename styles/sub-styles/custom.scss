@@ -1,0 +1,49 @@
+.custom-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 12px 16px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  background: #4ad382;
+  color: white;
+  border: 1px solid #4ad382;
+  cursor: pointer;
+  outline: none;
+  width: 165px;
+  &:hover {
+    opacity: 0.8;
+  }
+  .button-text {
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -0.02em;
+  }
+  img {
+    margin-left: 10px;
+    width: 15px;
+    height: 15px;
+  }
+}
+
+.custom-input {
+  background: #ffffff;
+  border: 1px solid #465876;
+  box-sizing: border-box;
+  border-radius: 4px;
+  width: 376px;
+  height: 44px;
+  outline: none;
+  padding: 0 10px;
+  font-size: 16px;
+  line-height: 20px;
+  width: calc(100% - 185px);
+  &::placeholder {
+    color: #a8b1ca;
+    opacity: 1;
+  }
+}
