@@ -1,5 +1,6 @@
 import React from "react"
 import Header from "../components/Header"
+import Footer from "../components/Footer"
 
 type Props = {
   children: any
@@ -10,6 +11,7 @@ const MainLayout = ({ children }: Props) => {
     <div>
       <Header />
       {children}
+      <Footer />
     </div>
   )
 }

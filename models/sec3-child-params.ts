@@ -1,10 +1,3 @@
-interface Item {
-  title: string
-  icon: string
-  order: number
-  visible: boolean
-}
-
 export interface Sec3ChildParams {
   title: string
   icon: string
@@ -12,5 +5,12 @@ export interface Sec3ChildParams {
   direction: number
   order: number
   visible: boolean
-  data: Item[]
+  data: Sec3ChildButtonParams[]
+}
+
+export interface Sec3ChildButtonParams {
+  title: string
+  icon: string
+  order: number
+  visible: boolean
 }
