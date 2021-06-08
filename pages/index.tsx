@@ -1,27 +1,24 @@
 import React from "react"
 import { GetStaticProps } from "next"
-import Header from "../components/Header"
 import Main from "../views/Main"
+import MainLayout from "../layouts/MainLayout"
 
 interface Props {
   test: string
 }
 
-export default function Home(data: Props) {
-  console.log("props", data)
+export default function Index() {
   return (
-    <div>
-      <Header />
+    <MainLayout>
       <Main />
-      <footer></footer>
-    </div>
+    </MainLayout>
   )
 }
 
 export const getStaticProps: GetStaticProps<Props> = async () => {
   return {
     props: {
-      test: "test-props",
+      test: "test",
     },
   }
 }

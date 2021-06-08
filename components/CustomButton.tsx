@@ -13,7 +13,7 @@ const CustomButton = ({ text, iconName, style, className }: Props) => {
       <span className="button-text">{text}</span>
       {iconName ? (
         <span>
-          <img src={`img/${iconName}.svg`} alt={`custom-button-${iconName}`} />
+          <img src={`img/other/${iconName}.svg`} alt={`custom-button-${iconName}`} />
         </span>
       ) : (
         <></>

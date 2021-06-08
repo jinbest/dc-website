@@ -1,9 +1,8 @@
-import "../styles/globals.css";
-import "../styles/index.scss";
-import type { AppProps } from "next/app";
-import React from "react";
-import Head from "next/head";
-import config from "../static/config.json";
+import React from "react"
+import Head from "next/head"
+import type { AppProps } from "next/app"
+import config from "../static/config.json"
+import "../styles/index.scss"
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
@@ -13,6 +12,6 @@ function MyApp({ Component, pageProps }: AppProps) {
       </Head>
       <Component {...pageProps} />
     </>
-  );
+  )
 }
-export default MyApp;
+export default MyApp

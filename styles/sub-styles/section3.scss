@@ -1,0 +1,34 @@
+.section3 {
+  width: 100%;
+  height: auto;
+}
+
+.section3-container {
+  margin: auto;
+  width: 100%;
+  max-width: 1440px;
+  text-align: center;
+  padding: 100px 32px;
+  .section3-title {
+    padding: 10px 0;
+    max-width: 750px;
+    text-align: center;
+    margin: auto;
+  }
+  .section3-content {
+    padding: 20px 0;
+    text-align: center;
+    max-width: 750px;
+    margin: auto;
+  }
+  .children-container {
+    padding-top: 50px;
+  }
+  .children {
+    padding: 50px 0;
+    width: 100%;
+    .child-data {
+      text-align: left;
+    }
+  }
+}
