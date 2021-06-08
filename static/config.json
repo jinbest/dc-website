@@ -1,0 +1,242 @@
+{
+  "headerData": {
+    "title": "Dc Website",
+    "description": "Device Commerce Website",
+    "favicon": "/img/header/favicon.ico"
+  },
+  "header": {
+    "logo": "/img/header/logo.svg",
+    "navData": [
+      {
+        "name": "Features",
+        "link": "#features",
+        "order": 1,
+        "visible": true
+      },
+      {
+        "name": "Partners",
+        "link": "#partners",
+        "order": 2,
+        "visible": true
+      },
+      {
+        "name": "Pricing",
+        "link": "#pricing",
+        "order": 3,
+        "visible": false
+      }
+    ]
+  },
+  "general": {
+    "colorPalle": {
+      "theme": "#4AD382",
+      "bg1": "#FFFFFF",
+      "bg2": "#F3F4F6",
+      "greyScale200": "#E5E7EB",
+      "greyScale300": "#D1D5DB",
+      "greyScale400": "#9CA3AF",
+      "footerBg": "#132337",
+      "brandDark": "#465876",
+      "brandOxford": "#132337"
+    }
+  },
+  "main": {
+    "section1": {
+      "title": "Industry leading tech to better manage your mobile device repair shop",
+      "content": "High converting Google Ads-approved websites with end to end quote, appointment, inventory management software, and more. Gain control of your online presence, drive more traffic, and serve your customers better.",
+      "entering": "By entering your email, you are agreeing to our",
+      "bgImg": "/img/section1/section1-bg-img.svg",
+      "img": "/img/section1/section1-img.svg",
+      "button": {
+        "text": "Join the waitlist",
+        "iconName": "arrow-right"
+      }
+    },
+    "section2": {
+      "topic": {
+        "img": "/img/section2/section2-flag.svg",
+        "text": "Proudly Canadian"
+      },
+      "title": "The repair industry revolutionized.",
+      "content": "An all-in-one solution for managing quotes, appointments, ecommerce, and marketing has been missing from the repair industry, until now. Device Commerce is built by shop owners for shop owners.",
+      "icons": [
+        {
+          "img": "/img/section2/section2-icon-protect.svg",
+          "title": "99.9% Uptime",
+          "content": "Outperform your competition with a reliable, lightning-fast site.",
+          "visible": true,
+          "order": 1
+        },
+        {
+          "img": "/img/section2/section2-icon-heart.svg",
+          "title": "Dedicated Support",
+          "content": "24/7 access to a dedicated support team across Canada.",
+          "visible": true,
+          "order": 2
+        },
+        {
+          "img": "/img/section2/section2-icon-money.svg",
+          "title": "Sell More, Faster",
+          "content": "Intelligent tools that help you sell more and scale your business.",
+          "visible": true,
+          "order": 3
+        },
+        {
+          "img": "/img/section2/section2-icon-people.svg",
+          "title": "Trusted Partners",
+          "content": "Gain access to an expansive network of trusted partners.",
+          "visible": true,
+          "order": 4
+        }
+      ]
+    },
+    "section3": {
+      "title": "A more efficient system to manage your shop",
+      "content": "Our intelligent tools and services make it easy to grow your business to new heights. Capture more quote requests and manage appointments effectively. Drive online sales for new, used, and refurbished devices in your province. Overtake the competition on Google, Facebook, and Instagram. See our tools in action below.",
+      "children": [
+        {
+          "title": "Receive more quotes & appointments within seconds",
+          "icon": "/img/section3/icons/section3-icon-computer.svg",
+          "img": "/img/section3/section3-add-to-cart.svg",
+          "direction": 1,
+          "order": 1,
+          "visible": true,
+          "data": [
+            {
+              "title": "Quote Creation Module",
+              "icon": "/img/section3/small-icons/icon-save.svg",
+              "order": 1,
+              "visible": true
+            },
+            {
+              "title": "Appointment Booking Module",
+              "icon": "/img/section3/small-icons/icon-booking.svg",
+              "order": 2,
+              "visible": true
+            },
+            {
+              "title": "Securely Accept Online Payments",
+              "icon": "/img/section3/small-icons/icon-lock.svg",
+              "order": 3,
+              "visible": true
+            },
+            {
+              "title": "Location Finder",
+              "icon": "/img/section3/small-icons/icon-location-finder.svg",
+              "order": 4,
+              "visible": true
+            }
+          ]
+        },
+        {
+          "title": "Get more customers online & overtake your local competition",
+          "icon": "/img/section3/icons/section3-icon-trade.svg",
+          "img": "/img/section3/section3-get-more-info.svg",
+          "direction": 0,
+          "order": 2,
+          "visible": true,
+          "data": [
+            {
+              "title": "Organic Content Creation",
+              "icon": "/img/section3/small-icons/icon-organic.svg",
+              "order": 1,
+              "visible": true
+            },
+            {
+              "title": "Facebook, Instagram & Google Ads",
+              "icon": "/img/section3/small-icons/icon-facebook.svg",
+              "order": 2,
+              "visible": true
+            },
+            {
+              "title": "Search Engine Optimization",
+              "icon": "/img/section3/small-icons/icon-search.svg",
+              "order": 3,
+              "visible": true
+            },
+            {
+              "title": "Professional Brand Consulting",
+              "icon": "/img/section3/small-icons/icon-brand.svg",
+              "order": 4,
+              "visible": true
+            }
+          ]
+        },
+        {
+          "title": "Scale up confidently with a full business management suite",
+          "icon": "/img/section3/icons/section3-icon-business.svg",
+          "img": "/img/section3/section3-item-shipped.svg",
+          "direction": 1,
+          "order": 3,
+          "visible": true,
+          "data": [
+            {
+              "title": "Shipping Management & Discounted Rates",
+              "icon": "/img/section3/small-icons/icon-cube.svg",
+              "order": 1,
+              "visible": true
+            },
+            {
+              "title": "Multi-Channel Communication Hub",
+              "icon": "/img/section3/small-icons/icon-message.svg",
+              "order": 2,
+              "visible": true
+            },
+            {
+              "title": "Device Inventory Management System",
+              "icon": "/img/section3/small-icons/icon-mobile.svg",
+              "order": 3,
+              "visible": true
+            },
+            {
+              "title": "Clear Analytics Reporting",
+              "icon": "/img/section3/small-icons/icon-analytics.svg",
+              "order": 4,
+              "visible": true
+            }
+          ]
+        },
+        {
+          "title": "Get access to our expansive network of trusted partners",
+          "icon": "/img/section3/icons/section3-icon-people.svg",
+          "img": "/img/section3/section3-group.png",
+          "direction": 0,
+          "order": 4,
+          "visible": true,
+          "data": [
+            {
+              "title": "Offer Online & In-Store Financing",
+              "icon": "/img/section3/small-icons/icon-finance.svg",
+              "order": 1,
+              "visible": true
+            },
+            {
+              "title": "Lowest Payment Processing Fees",
+              "icon": "/img/section3/small-icons/icon-lowest-payment.svg",
+              "order": 2,
+              "visible": true
+            },
+            {
+              "title": "Offer Bounce Insurance to Customers",
+              "icon": "/img/section3/small-icons/icon-warning.svg",
+              "order": 3,
+              "visible": true
+            },
+            {
+              "title": "Free TV Ads with AdCentral",
+              "icon": "/img/section3/small-icons/icon-tv.svg",
+              "order": 4,
+              "visible": true
+            },
+            {
+              "title": "Carrier Network Access",
+              "icon": "/img/section3/small-icons/icon-global.svg",
+              "order": 5,
+              "visible": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
