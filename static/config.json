@@ -237,6 +237,321 @@
           ]
         }
       ]
+    },
+    "section4": {
+      "title": "Meet Our Partner Network",
+      "children": [
+        {
+          "title": "Our flagship partners",
+          "visible": true,
+          "order": 1,
+          "display": 1,
+          "data": [
+            {
+              "title": "Bounce Insurance",
+              "flags": ["/img/section4/ca.svg", "/img/section4/us.svg"],
+              "tags": ["Exclusive Access", "Discounted Rates"],
+              "content": "Get your customers unbeatable protection rates and increase sales by appearing on Bounce’s preferred repair location finder.",
+              "order": 1,
+              "visible": true
+            },
+            {
+              "title": "AdCentral",
+              "flags": ["/img/section4/ca.svg", "/img/section4/us.svg"],
+              "tags": ["Exclusive Access", "Free Forever"],
+              "content": "Get unlimited free access to AdCentral’s curated, plug and play, smart TV advertisements forever.",
+              "order": 2,
+              "visible": true
+            },
+            {
+              "title": "Clover Payments",
+              "flags": ["/img/section4/ca.svg", "/img/section4/us.svg"],
+              "tags": ["Discounted"],
+              "content": "Clover builds smart, customized point of sale systems to make running your business easier.",
+              "order": 3,
+              "visible": true
+            },
+            {
+              "title": "RingCentral",
+              "flags": ["/img/section4/ca.svg", "/img/section4/us.svg"],
+              "tags": ["Discounted Rates"],
+              "content": "RingCentral is a complete communications solution empowering your business globally to communicate and collaborate.",
+              "order": 4,
+              "visible": true
+            },
+            {
+              "title": "Deputy",
+              "flags": ["/img/section4/ca.svg", "/img/section4/us.svg"],
+              "tags": ["Discounted Rates"],
+              "content": "Deputy is a workforce management app that allows you to track and plan your employee schedules.",
+              "order": 5,
+              "visible": true
+            },
+            {
+              "title": "& Much More to Come",
+              "flags": [],
+              "tags": ["Coming Soon"],
+              "content": "We are committed to partnering with the best and brightest businesses to help you future-proof your business and level-up.",
+              "order": 6,
+              "visible": true
+            }
+          ]
+        },
+        {
+          "title": "Offer in-store and online financing",
+          "visible": true,
+          "order": 2,
+          "display": 1,
+          "data": [
+            {
+              "title": "Flexiti",
+              "flags": ["/img/section4/ca.svg"],
+              "tags": ["Discounted Rates"],
+              "content": "Flexiti helps consumer by providing financing, with higher approval rates and superior customer service.",
+              "order": 1,
+              "visible": true
+            },
+            {
+              "title": "America First Finanace",
+              "flags": ["/img/section4/us.svg"],
+              "tags": ["Discounted Rates"],
+              "content": "Offer a flexible payment solution for customers online, in store, and via text that allow them to buy now and pay later.",
+              "order": 2,
+              "visible": true
+            },
+            {
+              "title": "Sezzle",
+              "flags": ["/img/section4/us.svg"],
+              "tags": ["Discounted Rates"],
+              "content": "Sezzle empowers shoppers to purchase today, and make 4 interest-free payments over 6 weeks! Increase your conversions, AOV and customer satisfaction.",
+              "order": 3,
+              "visible": true
+            },
+            {
+              "title": "Affirm",
+              "flags": ["/img/section4/us.svg"],
+              "tags": ["Discounted Rates"],
+              "content": "Affirm’s programs remove price as a barrier, turning browsers into buyers, increasing average order value, and expanding your customer base.",
+              "order": 4,
+              "visible": true
+            },
+            {
+              "title": "Acima",
+              "flags": ["/img/section4/us.svg"],
+              "tags": ["Discounted Rates"],
+              "content": "Acima makes it possible for merchants to offer their customers a No Credit Needed purchase option at the point of sale.",
+              "order": 5,
+              "visible": true
+            },
+            {
+              "title": "& Much More to Come",
+              "flags": [],
+              "tags": ["Coming Soon"],
+              "content": "We are committed to partnering with the best and brightest businesses to help you future-proof your business and level-up.",
+              "order": 6,
+              "visible": true
+            }
+          ]
+        },
+        {
+          "title": "Tap into our carrier network",
+          "visible": true,
+          "order": 3,
+          "display": 2,
+          "data": [
+            {
+              "title": "DOT Mobile",
+              "flags": ["/img/section4/ca.svg"],
+              "tags": ["Featured Carrier Partner"],
+              "content": "",
+              "order": 1,
+              "visible": true
+            },
+            {
+              "title": "Public Mobile",
+              "flags": ["/img/section4/ca.svg"],
+              "tags": ["Partner Access"],
+              "content": "",
+              "order": 2,
+              "visible": true
+            },
+            {
+              "title": "Lucky Mobile",
+              "flags": ["/img/section4/ca.svg"],
+              "tags": ["Partner Access"],
+              "content": "",
+              "order": 3,
+              "visible": true
+            },
+            {
+              "title": "PhoneBox",
+              "flags": ["/img/section4/ca.svg"],
+              "tags": ["Partner Access"],
+              "content": "",
+              "order": 4,
+              "visible": true
+            },
+            {
+              "title": "Chatr Mobile",
+              "flags": ["/img/section4/ca.svg"],
+              "tags": ["Partner Access"],
+              "content": "",
+              "order": 5,
+              "visible": true
+            }
+          ]
+        }
+      ]
+    },
+    "section5": {
+      "title": "What Customers Are Saying",
+      "children": [
+        {
+          "title": "Firstname Lastname",
+          "subTitle": "Job Title Goes Here",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fermentum, donec pellentesque neque, velit. Sit viverra turpis purus in ornare. Facilisi id mi eu, eget ut netus. In scelerisque maecenas cras quisque amet.",
+          "order": 1,
+          "visible": true
+        },
+        {
+          "title": "Firstname Lastname",
+          "subTitle": "Job Title Goes Here",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fermentum, donec pellentesque neque, velit. Sit viverra turpis purus in ornare. Facilisi id mi eu, eget ut netus. In scelerisque maecenas cras quisque amet.",
+          "order": 2,
+          "visible": true
+        },
+        {
+          "title": "Firstname Lastname",
+          "subTitle": "Job Title Goes Here",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fermentum, donec pellentesque neque, velit. Sit viverra turpis purus in ornare. Facilisi id mi eu, eget ut netus. In scelerisque maecenas cras quisque amet.",
+          "order": 3,
+          "visible": true
+        }
+      ]
+    }
+  },
+  "footer": {
+    "logo": "/img/footer/footer-logo.svg",
+    "content": "Intelligent tools to grow your mobile device business. Gain control of your online presence, drive traffic, and serve your customers better.",
+    "socials": [
+      {
+        "link": "#",
+        "img": "/img/footer/facebook.svg",
+        "title": "",
+        "order": 1,
+        "visible": true
+      },
+      {
+        "link": "#",
+        "img": "/img/footer/instagram.svg",
+        "title": "",
+        "order": 2,
+        "visible": true
+      },
+      {
+        "link": "#",
+        "img": "/img/footer/twitter.svg",
+        "title": "",
+        "order": 3,
+        "visible": true
+      }
+    ],
+    "data": [
+      {
+        "title": "Footer Heading",
+        "order": 1,
+        "visible": true,
+        "child": [
+          {
+            "title": "Footer Link",
+            "link": "#",
+            "img": "",
+            "order": 1,
+            "visible": true
+          },
+          {
+            "title": "Footer Link",
+            "link": "#",
+            "img": "",
+            "order": 2,
+            "visible": true
+          },
+          {
+            "title": "Footer Link",
+            "link": "#",
+            "img": "",
+            "order": 3,
+            "visible": true
+          },
+          {
+            "title": "Footer Link",
+            "link": "#",
+            "img": "",
+            "order": 4,
+            "visible": true
+          },
+          {
+            "title": "Footer Link",
+            "link": "#",
+            "img": "",
+            "order": 5,
+            "visible": true
+          }
+        ]
+      },
+      {
+        "title": "Footer Heading",
+        "order": 1,
+        "visible": true,
+        "child": [
+          {
+            "title": "Footer Link",
+            "link": "#",
+            "img": "",
+            "order": 1,
+            "visible": true
+          },
+          {
+            "title": "Footer Link",
+            "link": "#",
+            "img": "",
+            "order": 2,
+            "visible": true
+          },
+          {
+            "title": "Footer Link",
+            "link": "#",
+            "img": "",
+            "order": 3,
+            "visible": true
+          },
+          {
+            "title": "Footer Link",
+            "link": "#",
+            "img": "",
+            "order": 4,
+            "visible": true
+          },
+          {
+            "title": "Footer Link",
+            "link": "#",
+            "img": "",
+            "order": 5,
+            "visible": true
+          }
+        ]
+      }
+    ],
+    "copyright": "© 2021 Device Commerce LLC",
+    "terms": {
+      "title": "Terms & Conditions",
+      "visible": true,
+      "link": "#"
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "visible": true,
+      "link": "#"
     }
   }
 }
