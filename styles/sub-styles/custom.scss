@@ -13,6 +13,10 @@
   outline: none;
   width: 165px;
   height: 44px;
+  @media (max-width: 960px) {
+    background: #3aace2;
+    border: 1px solid #3aace2;
+  }
   &:hover {
     opacity: 0.8;
   }
@@ -53,5 +57,8 @@
   p {
     color: red;
     font-size: 12px;
+  }
+  @media (max-width: 600px) {
+    width: calc(100% - 175px);
   }
 }

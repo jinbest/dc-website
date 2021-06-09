@@ -30,8 +30,12 @@
       margin: auto;
       & > div {
         padding-bottom: 5px;
+        @media (max-width: 960px) {
+          justify-content: center;
+        }
       }
       .card-title {
+        font-family: "Space-Grotesk Bold";
         font-style: normal;
         font-weight: normal;
         font-size: 24px;
@@ -64,6 +68,9 @@
         font-size: 16px;
         line-height: 20px;
         letter-spacing: -0.02em;
+        @media (max-width: 960px) {
+          text-align: center;
+        }
       }
     }
   }

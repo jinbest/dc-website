@@ -199,10 +199,14 @@ const Section1 = () => {
           </motion.div>
         </Grid>
         <Grid item xs={12} md={6}>
-          <motion.div initial="close" animate={openImage ? "open" : "close"} variants={variants(2)}>
+          <motion.div
+            initial="close"
+            animate={openImage ? "open" : "close"}
+            variants={variants(0.5)}
+          >
             <motion.img
-              variants={childVariants({ y: -500 } as ChildVariantsProps)}
-              transition={{ duration: 2.3 }}
+              variants={childVariants({ y: -150 } as ChildVariantsProps)}
+              transition={{ duration: 1 }}
               className="section1-asset"
               src={thisPage.img}
               alt="section1-asset"

@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "DMSans Bold";
+  src: url("../public/fonts/dm-sans/DMSans-Bold.ttf") format("truetype");
+  ascent-override: 100%;
+  descent-override: 20%;
+  line-gap-override: normal;
+  advance-override: 10;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "DMSans Regular";
+  src: url("../public/fonts/dm-sans/DMSans-Regular.ttf") format("truetype");
+  ascent-override: 100%;
+  descent-override: 20%;
+  line-gap-override: normal;
+  advance-override: 10;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "Space-Grotesk Regular";
+  src: url("../public/fonts/space-grotesk/static/SpaceGrotesk-Regular.ttf") format("truetype");
+  ascent-override: 100%;
+  descent-override: 20%;
+  line-gap-override: normal;
+  advance-override: 10;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "Space-Grotesk Bold";
+  src: url("../public/fonts/space-grotesk/static/SpaceGrotesk-Bold.ttf") format("truetype");
+  ascent-override: 100%;
+  descent-override: 20%;
+  line-gap-override: normal;
+  advance-override: 10;
+  font-display: fallback;
+}
