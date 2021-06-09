@@ -15,6 +15,8 @@ module.exports = {
     "@typescript-eslint/require-await": "off",
     "@typescript-eslint/no-explicit-any": "off",
     "@typescript-eslint/no-unsafe-assignment": "off",
+    "@typescript-eslint/no-floating-promises": "off",
+    "no-useless-escape": "off",
   },
   parserOptions: {
     project: "./tsconfig.json",

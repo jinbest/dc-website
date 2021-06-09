@@ -66,10 +66,12 @@
           height: 32px;
         }
         p {
+          font-family: "Space-Grotesk Regular";
           font-size: 20px;
           line-height: 28px;
           letter-spacing: -0.02em;
           margin-left: 10px;
+          text-align: left;
           @media (max-width: 960px) {
             font-size: 16px;
           }

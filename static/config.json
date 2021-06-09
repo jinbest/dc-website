@@ -5,7 +5,14 @@
     "favicon": "/img/header/favicon.ico"
   },
   "header": {
-    "logo": "/img/header/logo.svg",
+    "logo": {
+      "desktop": "/img/header/logo.svg",
+      "mobile": "/img/header/mobile-logo.svg"
+    },
+    "drawer": {
+      "menu": "/img/other/menu.svg",
+      "cancel": "/img/other/cancel.svg"
+    },
     "navData": [
       {
         "name": "Features",
@@ -460,7 +467,7 @@
       {
         "title": "Footer Heading",
         "order": 1,
-        "visible": true,
+        "visible": false,
         "child": [
           {
             "title": "Footer Link",
@@ -502,7 +509,7 @@
       {
         "title": "Footer Heading",
         "order": 1,
-        "visible": true,
+        "visible": false,
         "child": [
           {
             "title": "Footer Link",
