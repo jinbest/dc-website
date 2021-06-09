@@ -460,7 +460,7 @@
       {
         "title": "Footer Heading",
         "order": 1,
-        "visible": true,
+        "visible": false,
         "child": [
           {
             "title": "Footer Link",
@@ -502,7 +502,7 @@
       {
         "title": "Footer Heading",
         "order": 1,
-        "visible": true,
+        "visible": false,
         "child": [
           {
             "title": "Footer Link",

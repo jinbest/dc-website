@@ -12,6 +12,7 @@
   cursor: pointer;
   outline: none;
   width: 165px;
+  height: 44px;
   &:hover {
     opacity: 0.8;
   }
@@ -31,19 +32,26 @@
 }
 
 .custom-input {
-  background: #ffffff;
-  border: 1px solid #465876;
-  box-sizing: border-box;
-  border-radius: 4px;
-  width: 376px;
-  height: 44px;
-  outline: none;
-  padding: 0 10px;
-  font-size: 16px;
-  line-height: 20px;
   width: calc(100% - 185px);
-  &::placeholder {
-    color: #a8b1ca;
-    opacity: 1;
+  input {
+    width: 100% !important;
+    background: #ffffff;
+    border: 1px solid #465876;
+    box-sizing: border-box;
+    border-radius: 4px;
+    width: 376px;
+    height: 44px;
+    outline: none;
+    padding: 0 10px;
+    font-size: 16px;
+    line-height: 20px;
+    &::placeholder {
+      color: #a8b1ca;
+      opacity: 1;
+    }
+  }
+  p {
+    color: red;
+    font-size: 12px;
   }
 }
