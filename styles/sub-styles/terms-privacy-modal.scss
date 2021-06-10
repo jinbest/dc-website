@@ -1,0 +1,103 @@
+.terms-privacy-modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .paper {
+    background: white;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+    padding: 20px 30px;
+    width: 97%;
+    max-width: 1440px;
+    height: 95%;
+    position: relative;
+    @media (max-width: 600px) {
+      padding: 20px 15px;
+    }
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      height: 20px;
+      .modal-close-icon {
+        margin-left: auto !important;
+        margin-right: -20px;
+        @media (max-width: 600px) {
+          margin-right: -10px;
+        }
+      }
+    }
+    .modal-title {
+      font-weight: bold;
+      text-align: center;
+      font-size: 20px;
+      text-transform: uppercase;
+      text-decoration: underline;
+    }
+    .modal-body {
+      overflow-x: hidden;
+      overflow-y: scroll;
+      max-height: calc(100% - 70px);
+      margin-top: 20px;
+      &::-webkit-scrollbar {
+        width: 3px;
+        cursor: pointer;
+      }
+      &::-webkit-scrollbar-track {
+        background: transparent;
+      }
+      &::-webkit-scrollbar-thumb {
+        background: #4ad382;
+      }
+      .modal-content {
+        text-align: center;
+        font-size: 16px;
+        text-align: left;
+        padding: 5px 0;
+      }
+      .bold {
+        font-weight: bold;
+      }
+      .upper-case {
+        text-transform: uppercase;
+      }
+      .modal-data-container {
+        padding: 0 30px;
+        li {
+          & > span {
+            margin-left: 20px;
+          }
+        }
+        .childlist-data {
+          & > li {
+            list-style: disc;
+          }
+          .it-child-list {
+            padding: 0 30px;
+            & > li {
+              list-style: circle;
+            }
+          }
+          @media (max-width: 600px) {
+            padding: 0 20px;
+          }
+        }
+        .childdata-container {
+          padding: 0 20px;
+          li {
+            list-style: lower-alpha;
+            & > span {
+              margin-left: 10px;
+            }
+          }
+        }
+      }
+      a {
+        color: blue;
+        text-decoration: underline;
+      }
+    }
+  }
+}

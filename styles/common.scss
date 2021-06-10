@@ -79,3 +79,19 @@ p {
 .justify-between {
   justify-content: space-between;
 }
+
+.custom-scroll-bar {
+  &::-webkit-scrollbar {
+    width: 3px;
+    cursor: pointer;
+  }
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: #999;
+  }
+  &::-webkit-scrollbar-thumb:hover {
+    background: #666;
+  }
+}

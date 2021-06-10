@@ -97,7 +97,7 @@
         font-size: 12px;
       }
     }
-    a {
+    span {
       font-style: normal;
       font-weight: normal;
       font-size: 16px;
@@ -106,6 +106,7 @@
       letter-spacing: -0.02em;
       color: #e5e7eb;
       margin-left: 25px;
+      cursor: pointer;
       &:hover {
         opacity: 0.7;
       }

@@ -1,0 +1,814 @@
+{
+  "title": "Terms of use",
+  "date": "Effective Date: April 21, 2021",
+  "abstract": [
+    "PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING OR ACCESSING THIS WEBSITE AND THE SERVICE.  BY USING OR ACCESSING THIS WEBSITE AND THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD AND AGREE TO BE BOUND BY THESE TERMS OF USE.  IF YOU DO NOT AGREE WITH THESE TERMS OF USE, PLEASE DO NOT ACCESS OR USE THIS WEBSITE AND THE SERVICE.",
+    "YOU SHOULD PRINT A COPY OF THESE TERMS OF USE FOR FUTURE REFERENCE."
+  ],
+  "data": [
+    {
+      "title": "Definitions",
+      "content": [],
+      "order": 1,
+      "visible": true,
+      "childlist": {
+        "title": "In these Terms of Use:",
+        "data": [
+          {
+            "keyword": ["Disputes"],
+            "content": [
+              {
+                "text": "has the meaning prescribed under Section 17.",
+                "link": {}
+              }
+            ],
+            "order": 1,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": ["Distribute"],
+            "content": [
+              {
+                "text": "means to incorporate, run, submit, use, display, copy, upload, post, reproduce, embed, communicate, publish, distribute, create derivative works of, adapt, translate, perform, transmit, arrange, modify, export, merge, transfer, share, outsource and/or make available.",
+                "link": {}
+              }
+            ],
+            "order": 1,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": ["includes", "including"],
+            "content": [
+              {
+                "text": "means including without limiting the generality of the foregoing.",
+                "link": {}
+              }
+            ],
+            "order": 3,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": ["Licence"],
+            "content": [
+              {
+                "text": "has the meaning prescribed under Section 8.",
+                "link": {}
+              }
+            ],
+            "order": 4,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": ["Marks"],
+            "content": [
+              {
+                "text": "means COMMETIX name and logo, DEVICE COMMERCE name and logo, and any other trademarks, trade dress, designs, trade names, domain names and logos appearing on or in connection with the Service.",
+                "link": {}
+              }
+            ],
+            "order": 5,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": ["Operator"],
+            "content": [
+              {
+                "text": "means Commetix Systems Inc., including all of its affiliates, subsidiaries, shareholders, officers, directors, agents, users, representatives, contractors, suppliers, customers, licensors, licensees, partners, affiliates and employees.  From time to time, the Operator is referred to in these Terms of Use as “we” or “us”.",
+                "link": {}
+              }
+            ],
+            "order": 6,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": ["person"],
+            "content": [
+              {
+                "text": "includes natural persons and any type of incorporated or unincorporated entity.",
+                "link": {}
+              }
+            ],
+            "order": 7,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": ["Registration Data"],
+            "content": [
+              {
+                "text": "has the meaning prescribed under Section 9.",
+                "link": {}
+              }
+            ],
+            "order": 8,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": ["registered user"],
+            "content": [
+              {
+                "text": "means a person who has created and registered an account with the Service.",
+                "link": {}
+              }
+            ],
+            "order": 9,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": ["Service"],
+            "content": [
+              {
+                "text": "means the Site, as well as any online services offered on the Site by the Operator, including software as a service, business management software services and products, payment processing services, marketing and advertising management services, general consulting services, graphic design services, financing services, carrier partnerships and insurance partnerships.",
+                "link": {}
+              }
+            ],
+            "order": 10,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": ["Site"],
+            "content": [
+              {
+                "text": "means this website, having the URL",
+                "link": {
+                  "text": "www.commetix.com,",
+                  "href": "https://www.commetix.com"
+                }
+              },
+              {
+                "text": "as well as any related applications made available by the Operator on the Site and in any app stores for use on mobile devices, tablets, personal computers and other devices and subdomains and subsidiary sites, and all of the related web pages relating thereto, including, but not limited to, content (other than the User Content), user interfaces, design documents, test plans and scripts, visual interfaces, applications and software (whether in source, object or executable code), information, photographs, images, ideas, modifications, improvements, processes, illustrations, audio clips, training videos, videos, video clips, data, research results, code, designs, drawings, reports, studies, manuals, pictures, graphs, graphics, text, files, icons, user accounts, titles, themes, programs, specifications, packaging, media, literary and/or artistic works, musical and/or  dramatic works, objects, techniques, screen display, audio visual display or presentation, algorithms, new and useful art, databases, dialogue, locations, concepts, artwork, animations, sounds, musical compositions, compilations, audio-visual effects, methods of operation, moral rights, look and feel, company names, business names, domain names, multi-media, keywords, the Marks, trademarks, goodwill, trade dress, logos and trade names, or other materials uploaded, downloaded and/or contained in or electronically Distributed on the Site or the Service, including the manner in which the said content and information is presented or appears, together with all intellectual property rights therein.",
+                "link": {}
+              }
+            ],
+            "order": 11,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": ["Terms of Use"],
+            "content": [
+              {
+                "text": "means these Terms of Use, including the Privacy Policy on the Site and other policies, operating rules and procedures referenced herein and/or available by hyperlink in these Terms of Use, and any additional terms, conditions or future modifications as described herein.",
+                "link": {}
+              }
+            ],
+            "order": 12,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": ["use", "uses"],
+            "content": [
+              {
+                "text": "includes accessing, registering, viewing, reading, copying (whether in whole or in part), creating an account, Distributing User Content, and purchasing.",
+                "link": {}
+              }
+            ],
+            "order": 13,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": ["user"],
+            "content": [
+              {
+                "text": "means a person who uses and accesses the Service in any manner, including merely accessing or viewing the Site, and includes a registered user, visitor, customer, contributors of User Content, or browser.  Such a person is referred to in these Terms of Use as \"user\" or \"you\".",
+                "link": {}
+              }
+            ],
+            "order": 14,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": ["User Content"],
+            "content": [
+              {
+                "text": "means any and all content, material and information Distributed by users via the Service, including any user-generated content about the Operator’s products and services, including questions, suggestions, information, inquiries, testimonials, feedback, reviews, emails, ideas, drawings, comments, opinions, audio, videos, images, data, concepts, designs, product names, trademarks, photographs, or other content or material, including any intellectual property rights relating thereto.",
+                "link": {}
+              }
+            ],
+            "order": 15,
+            "visible": true,
+            "child": []
+          }
+        ]
+      },
+      "childData": []
+    },
+    {
+      "title": "Your Acceptance of these Terms of Use",
+      "content": [
+        "Welcome to the website and online service of the Operator.  This is a legal agreement between you and the Operator.  These Terms of Use govern your use of the Service. Each time you use the Service, you signify your acceptance and agreement, and the acceptance and agreement of any person you purport to represent, to be bound by these Terms of Use, whether or not you are a registered user of our Service. You must obey the Operator‘s policies as stated in these Terms of Use as well as all other operating rules, policies and procedures that may be published from time to time on the Service, each of which is incorporated herein by reference and each of which may be updated by the Operator from time to time without notice to you. You represent and warrant that you have the legal authority to agree to and accept these Terms of Use on behalf of yourself and any person you purport to represent.  IF YOU DO NOT AGREE WITH EACH PROVISION OF THESE TERMS OF USE, OR YOU ARE NOT AUTHORIZED TO AGREE TO AND ACCEPT THESE TERMS OF USE ON BEHALF OF THE PERSON YOU PURPORT TO REPRESENT, THEN PLEASE DO NOT ACCESS OR USE THE SERVICE.",
+        "The Service is for convenience and informational purposes only and is not intended to convey advice or recommendations, or an offer to sell any product or service.  These Terms of Use are in addition to any other agreement you may have with the Operator, including a transaction agreement.  Your use of the Service includes the ability to enter into agreements and/or to make offers to purchase electronically. IF YOU CHOOSE TO ENTER INTO AGREEMENTS AND/OR TO MAKE OFFERS TO PURCHASE ELECTRONICALLY, YOU ACKNOWLEDGE THAT YOUR ELECTRONIC COMMUNICATIONS ARE SUFFICIENT TO CONSTITUTE YOUR AGREEMENT AND INTENT TO BE BOUND BY AND TO PAY FOR SUCH AGREEMENTS AND PURCHASES. YOUR AGREEMENT AND INTENT TO BE BOUND BY ELECTRONIC COMMUNICATIONS APPLIES TO ALL RECORDS RELATING TO ALL TRANSACTIONS YOU ENTER INTO ON THE SITE AND THE SERVICE. In order to access and retain your electronic records, you may be required to have certain hardware and software, which are your sole responsibility."
+      ],
+      "order": 2,
+      "visible": true,
+      "childlist": {},
+      "childData": []
+    },
+    {
+      "title": "Permission to Use the Service",
+      "content": [
+        "You may use the Service only if: (1) you have reached the age of majority where you live; and (2) you can form legally binding contracts under applicable law.  You may not use the Service if you live in a jurisdiction where use of the Service or any part of it may be illegal or prohibited. It is solely your responsibility to determine whether your use of the Service is lawful, and you must comply with all applicable laws."
+      ],
+      "order": 3,
+      "visible": true,
+      "childlist": {},
+      "childData": []
+    },
+    {
+      "title": "Changes to Terms of Use",
+      "content": [
+        "The Operator reserves the right, at its sole discretion, to change, amend, modify, add or remove terms and conditions contained in these Terms of Use, at any time, without further notice by posting any changes on the Service.  Any new terms or conditions will be effective as soon as they are posted. It is your responsibility to check these Terms of Use periodically and you are deemed to be aware of such changes. Your continued use of the Service following the posting of such changes will mean that you accept and agree to the changes.  If you do not agree to the changes, please stop using the Service."
+      ],
+      "order": 4,
+      "visible": true,
+      "childlist": {},
+      "childData": []
+    },
+    {
+      "title": "Purpose",
+      "content": [
+        "The Service provides software and eCommerce products for businesses, including but not limited to software as a service, business management software services and products, payment processing, marketing and management services, general consulting services, graphic design services, financing services, as well as the facilitation of insurance partnerships and carrier partnerships."
+      ],
+      "order": 5,
+      "visible": true,
+      "childlist": {},
+      "childData": []
+    },
+    {
+      "title": "Ownership of the Service",
+      "content": [
+        "The Service is the proprietary property of Commetix Systems Inc., its suppliers or its licensors, as the case may be. Unless expressly stated otherwise, the Service is protected by copyright and other intellectual property laws."
+      ],
+      "order": 6,
+      "visible": true,
+      "childlist": {},
+      "childData": []
+    },
+    {
+      "title": "Trademarks",
+      "content": [
+        "The Marks are registered or unregistered trademarks, trade dress, designs, domain names, trade names and logos owned or licensed by the Operator. All other trademarks, designs, domain names, trade names and logos not owned by the Operator that appear on the Service are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by the Operator.",
+        "Any use of the Marks, except as expressly provided in these Terms of Use, is strictly prohibited. Nothing appearing on the Service or elsewhere shall be construed as granting, by implication, estoppel, or otherwise, any licence or right to use in any manner any of the Marks."
+      ],
+      "order": 7,
+      "visible": true,
+      "childlist": {},
+      "childData": []
+    },
+    {
+      "title": "Permitted Use of the Service",
+      "content": [
+        "We acknowledge that when you obtain access to the Service, your computer downloads a copy of the information that is on it.  Provided that you are eligible for use of the Service and subject to these Terms of Use, the Operator hereby grants to you a limited personal, non-exclusive, non-sublicenseable, worldwide, revocable, non-assignable and non-transferable right and licence, to access, read, display on your computer, download and print a single copy of the text and images which are available on the Site (including any forms available on the Site which are designated for printing), solely for your personal and non-commercial use in connection with viewing the Site on any computer and any mobile devices, tablets, personal computers and other devices which you own and control, subject to any usage rules or other restrictions set out by the device manufacture, app store provider or platform operator for the term of these Terms of Use (the “Licence”).",
+        "The Licence is personal to you, and may not be assigned, transferred or sub-licensed to any other person. Without limiting the generality of the foregoing, you may not make any commercial use of the Site, include the Site in or with any product that you create or Distribute, or copy the Site onto your, or any other person's, website. You will keep all copyright and other proprietary notices intact. Your use of the Service does not transfer to you any ownership or other rights in the Service. You may use the Service only in the manner described expressly in these Terms of Use and subject to all applicable laws. The Service may NOT be modified, copied, Distributed, forwarded, framed, reproduced, republished, downloaded, displayed, posted, uploaded, incorporate, transmitted, sold or exploited in any form or by any means, in whole or in part, without the Operator’s prior written permission, except as expressly permitted by these Terms of Use or by applicable copyright laws. Using the Service for any other purpose or in any other manner is strictly prohibited. The Operator retains all rights not expressly granted hereunder. ANY USE OF THE SERVICE, OTHER THAN AS SPECIFICALLY AUTHORIZED UNDER THESE TERMS OF USE, WITHOUT THE PRIOR WRITTEN CONSENT OF THE OPERATOR, IS STRICTLY PROHIBITED AND WILL TERMINATE THE LICENCE.  THE LICENCE IS REVOCABLE BY THE OPERATOR AT ANY TIME WITHOUT NOTICE AND WITH OR WITHOUT CAUSE.",
+        "You acknowledge and agree that the availability of certain applications related to the Service is dependent on the third party from which you received the application. Each application store may have its own terms and conditions to which you must agree before downloading the application from it. The Licence is conditioned upon your compliance with all applicable terms and conditions of the applicable application store."
+      ],
+      "order": 8,
+      "visible": true,
+      "childlist": {},
+      "childData": []
+    },
+    {
+      "title": "Account Registration",
+      "content": [
+        "You agree to: (a) provide true, accurate, current and complete information about yourself as prompted by any registration form(s) on the Service, including your name, phone number, address, geographical location and billing address (the \"Registration Data\"); and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete, including a valid email address.  If you provide any information that is untrue, inaccurate, not current or incomplete, the Operator has the right to suspend or terminate your account and refuse any and all current or future use of the Service (or any portion thereof).",
+        "Registered users will receive a password and account designation upon completing the Service registration process. You are responsible for maintaining the confidentiality of the password, account and account designation and are fully responsible for all activities that occur under your password, account designation or account. You agree to: (a) immediately notify the Operator of any unauthorized use of your password, account designation or account or any other breach of security; and (b) ensure that you exit from your account at the end of each session. You agree that the Operator cannot and will not be liable for any loss or damage arising from your failure to keep your password and account secure.",
+        "You may not transfer or sell your account and account designation to another party. If you are registering as a business entity, you personally guarantee that you have the authority to bind the entity to these Terms of Use. You may not use the Service to direct shoppers to another online selling venue to purchase the same products as listed in the Service. This includes posting links/URLs or providing information sufficient to locate the other online selling venue(s). You cannot use your account for the purpose of redirecting traffic to another web location.",
+        "The Service is not available to temporarily or indefinitely suspended registered users. The Operator reserves the right, in the Operator’s sole discretion, to cancel unconfirmed or inactive accounts. The Operator reserves the right to refuse the Service to anyone, for any reason, at any time."
+      ],
+      "order": 9,
+      "visible": true,
+      "childlist": {},
+      "childData": []
+    },
+    {
+      "title": "Purchase Terms and Conditions",
+      "content": [],
+      "order": 10,
+      "visible": true,
+      "childlist": {},
+      "childData": [
+        {
+          "title": "Order Acceptance",
+          "order": 1,
+          "visible": true,
+          "content": [
+            "Advertisements on the Service, including the Site, are invitations to you to make offers to purchase products and services on the Service and are not offers to sell.  All prices and other amounts appearing on the Service are quoted in Canadian dollars.",
+            "Your properly completed and delivered electronic order form constitutes your offer to purchase the products or services referenced in your order. Your order will be deemed to be accepted only if and when we send an order acceptance confirmation email to your email address. That order acceptance confirmation email constitutes our acceptance of your order and forms a legally binding contract between you and the Operator."
+          ]
+        },
+        {
+          "title": "Payment",
+          "order": 2,
+          "visible": true,
+          "content": [
+            "The Operator accepts major credit cards. The Operator will also accept payment via PayPal and Interac Online. Please be sure to provide your exact billing address and telephone number, which should be the address and telephone number connected with your credit card or payment account. Incorrect information may cause a delay in processing your order.  The total price of your order will be charged to your method of payment when our order acceptance confirmation email and our order receipt confirmation email have been sent to your email address.",
+            "When you submit your electronic order form, you agree to pay in full for all products and services purchased through the Service, and you agree that the Operator may charge your credit card or payment account for any product or service purchased, including any applicable shipping, handling or processing fees, and for any additional amounts (including any taxes, customs fees and late fees, as applicable) as may be accrued to or in connection with your account. Purchases will include appropriate sales tax based on where the product or service is shipped and the sales tax rate(s) in effect at the time your order invoices.",
+            "YOU ARE RESPONSIBLE FOR THE TIMELY PAYMENT OF ALL AMOUNTS OWING BY YOU, AND FOR PROVIDING US WITH VALID CREDIT CARD OR PAYMENT ACCOUNT INFORMATION DETAILS FOR PAYMENTS OF ALL SUCH AMOUNTS."
+          ]
+        },
+        {
+          "title": "Cancellation",
+          "order": 3,
+          "visible": true,
+          "content": [
+            "All unsatisfied users may contact the Operator directly for a refund. You acknowledge that, depending on the form of payment you use, return payment charges from a financial institution or third party payment processor may apply which you will be responsible to pay. The Operator does not charge additional fees for return payments other than for the actual cost incurred at the applicable financial institution or third party payment processor to process the return payment, if any."
+          ]
+        },
+        {
+          "title": "Changes/Corrections/Availability",
+          "order": 4,
+          "visible": true,
+          "content": [
+            "The Operator reserves the right to: (a) correct any error, inaccuracy or omission at any time without prior notice or liability to you or any other person; (b) change at any time the products and services advertised or made available on the Service, the prices, fees, charges and specifications of such products and services, any promotional offers and any other part of the Service without any notice or liability to you or any other person; (c) reject, correct, cancel or terminate any order, including accepted orders for any reason; and (d) limit quantities available for sale."
+          ]
+        },
+        {
+          "title": "Misprints and Errors",
+          "order": 5,
+          "visible": true,
+          "content": [
+            "The Operator endeavours to provide current and accurate information on the Service.  However, misprints, errors, inaccuracies, omissions (including incorrect specifications for products) or other errors may sometimes occur. The Operator cannot guarantee that products and services advertised on the Service will be available when ordered or thereafter. The Operator does not warrant that the Service, including, without limitation, product descriptions or photographs, is accurate or complete."
+          ]
+        },
+        {
+          "title": "Your Information",
+          "order": 6,
+          "visible": true,
+          "content": [
+            "We rely on the information you provide through the Service, including Registration Data, payment information (credit card numbers and expiration dates), and transaction-related information, which must be true, accurate, current and complete. You will be solely responsible and liable for any and all loss, damage, and additional costs that you, we or any other person may incur as a result of your submission of any false, incorrect or incomplete information or your failure to update your Registration Data and payment information within 30 days of any change."
+          ]
+        },
+        {
+          "title": "Encryption",
+          "order": 7,
+          "visible": true,
+          "content": [
+            "The Service uses encryption technology to protect credit card information and payment account information from access by unauthorized third parties.  However, the Operator cannot guarantee that the encryption technology will operate as intended or that a third party will not be able to access such information.  BY SENDING ANY SENSITIVE INFORMATION OVER THE INTERNET IN CONNECTION WITH YOUR USE OF THE SERVICE, YOU AGREE THAT THE OPERATOR WILL NOT HAVE ANY LIABILITY IF THE APPLICABLE ENCRYPTION TECHNOLOGY FAILS TO PROTECT YOUR INFORMATION."
+          ]
+        },
+        {
+          "title": "Discounts and Promotions",
+          "order": 8,
+          "visible": true,
+          "content": [
+            "The Operator may make discounts and “free shipping” promotions available on certain items or in certain circumstances. Discounts and promotions are governed by these Terms of Use and any additional terms and conditions set out by the Operator applicable to the particular discount or promotion. By participating in our discount or promotions programs, you signify your agreement and acceptance of these Terms of Use and any additional terms and conditions applicable to such discount or promotion."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "User Content",
+      "content": [
+        "The Service allows users and/or registered users to Distribute User Content to or via the Service.",
+        "When you Distribute User Content on or through the Service, you represent and warrant: (1) that you own or otherwise control all of the rights, including moral rights and intellectual property rights, to the User Content; (2) that you can grant or have obtained all rights and consents that are necessary for you to grant any rights and licences described in these Terms of Use and relating to the User Content to the Operator; (3) that the User Content is accurate and is original to you and that no other party has any rights thereto; (4) that use and Distribution of the User Content will not infringe the rights of any third party and will not otherwise cause injury to any person or entity; and (5) that you will immediately notify us of any User Content that does not comply with these Terms of Use or may infringe the rights of a third party or third parties.",
+        "YOU AGREE TO INDEMNIFY THE OPERATOR FOR ALL CLAIMS BROUGHT BY A THIRD PARTY AGAINST THE OPERATOR ARISING OUT OF YOUR USER CONTENT, INCLUDING ANY CLAIM IN RESPECT OF INFRINGEMENT OF A THIRD PARTY’S INTELLECTUAL PROPERTY RIGHTS OR A CLAIM ARISING OUT OF OR IN CONNECTION WITH A BREACH OF ANY OF THE ABOVE REPRESENTATIONS AND WARRANTIES. THE OPERATOR TAKES NO RESPONSIBILITY AND ASSUMES NO LIABILITY FOR ANY USER CONTENT DISTRIBUTED BY YOU OR ANY THIRD PARTY.",
+        "The Operator considers any User Content Distributed on or through the Service to be non-confidential, and the Operator shall not be liable for the disclosure or use of such User Content.  If, at the Operator’s request, you send User Content to improve the Service, the Operator will also consider that User Content to be non-confidential, and the Operator will not be liable for the use or disclosure of the User Content.  Any communication by you to the Operator is subject to these Terms of Use.",
+        "If applicable, the Operator shall have the right but not the obligation to monitor, edit, refuse to post or remove any User Content. Without limiting the foregoing, the Operator shall have the right to remove any material that the Operator, in its sole discretion, finds to be in violation of the provisions of these Terms of Use, or otherwise objectionable.  Although the Operator reserves the right to remove, without notice, any User Content for any reason, the Operator has no obligation to delete User Content that you may find objectionable or offensive.",
+        "When you Distribute your original copyrightable User Content via the Service, you retain ownership of any copyright you claim to your submitted User Content. However, by making your User Content available via the Service, you automatically hereby grant to the Operator, or warrant that the owner has expressly granted to the Operator, a royalty-free, fully-paid, perpetual, irrevocable, non-exclusive, transferable, worldwide, sublicensable (through multiple tiers) right and licence to use, reproduce, copy, publish, Distribute, transmit, host, market, create derivative works of, modify, bundle, adapt, communicate, display and perform the User Content and any intellectual property rights therein (including but not limited to any copyright, trademark, publicity and database rights), in any form, technology or media now known or later developed, without providing compensation to you or anyone else, without any liability whatsoever, and free from any obligation of confidence or other duties on the part of the Operator.  Further, the Operator shall be free to use any ideas, concepts, know-how or techniques contained in such User Content for any purposes whatsoever, including but not limited to, research, development, manufacturing and marketing of products and services and other items incorporating such ideas, concepts, know-how and techniques.  You agree that the Operator can grant sublicences with respect to the User Content. You represent and warrant that you have the right to grant the licence set out in this Section.",
+        "Subject to the Privacy Policy where relevant, you hereby (i) agree to waive all moral rights in any User Content and any intellectual property rights therein in favour of the Operator; (ii) consent to your name appearing as the author or contributor of any such User Content, where applicable, and to the disclosure and/or display of such information and any other information which appears in or is associated with such User Content; (iii) acknowledge and agree that the Operator is not responsible for any loss, damage or corruption that may occur to your User Content; and (iv) acknowledge and agree that any User Content you choose to share with other users on the Service will be considered non-confidential.",
+        "You acknowledge that the Operator has the perpetual and irrevocable right to delete any or all of your User Content and data, including your intellectual property rights therein, from the Operator’s servers and from the Service, whether intentionally or unintentionally, and for any reason or no reason, without any liability of any kind to you or any other party. YOU UNDERSTAND AND AGREE THAT THE OPERATOR HAS THE RIGHT, BUT NOT THE OBLIGATION, TO REMOVE, IN WHOLE OR IN PART, ANY USER CONTENT OR OTHER CONTENT RELATED TO THE SERVICE, INCLUDING WITHOUT LIMITATION, DATA, ACCOUNT HISTORY AND ACCOUNT CONTENT RESIDING ON THE OPERATOR’S SERVERS, AT ANY TIME FOR ANY REASON OR NO REASON, WITH OR WITHOUT NOTICE AND WITH NO LIABILITY OF ANY KIND."
+      ],
+      "order": 11,
+      "visible": true,
+      "childlist": {},
+      "childData": []
+    },
+    {
+      "title": "Rules of Conduct",
+      "content": [
+        "You agree that you will be personally responsible for your use of the Service and for all of your communication and activity in using the Service, including any User Content you Distribute via the Service.  YOU AGREE AT ALL TIMES TO INDEMNIFY, DEFEND AND HOLD THE OPERATOR HARMLESS FROM ANY AND ALL LIABILITY OR DAMAGES ARISING FROM YOUR CONDUCT ON THE SERVICE, INCLUDING ANY USER CONTENT THAT YOU DISTRIBUTE VIA THE SERVICE AND/OR INFRINGEMENT OF A THIRD PARTY’S INTELLECTUAL PROPERTY RIGHTS."
+      ],
+      "order": 12,
+      "visible": true,
+      "childlist": {
+        "title": "As a condition of using the Service, you agree to all of the following:",
+        "data": [
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You may be required to select a user name and password to access certain aspects of the Service, including to Distribute User Content and/or purchase products and services. You are responsible for maintaining the confidentiality of your user name and password.",
+                "link": {}
+              }
+            ],
+            "order": 1,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You are responsible for all activity that occurs under your user name.",
+                "link": {}
+              }
+            ],
+            "order": 2,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You are solely responsible for your conduct and any User Content that you Distribute on the Service or that you allow others to Distribute on the Service.",
+                "link": {}
+              }
+            ],
+            "order": 3,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You will not Distribute any User Content to, on or through the Service that is fraudulent, unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, obscene, libelous, slanderous, pornographic, invasive of another's privacy, or hateful.",
+                "link": {}
+              }
+            ],
+            "order": 4,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You will not Distribute any User Content that infringes or violates a patent, trademark, trade secret, copyright or other intellectual property rights of another person or entity, or that violate any right of privacy, or offer content that you do not have a right to make available under any law or under contractual or fiduciary relationships.",
+                "link": {}
+              }
+            ],
+            "order": 5,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You will not transmit any worms or viruses, spyware, malware, bugs or any other harmful or destructive code to or through the Service.",
+                "link": {}
+              }
+            ],
+            "order": 6,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You will not Distribute to, on or through the Service any unsolicited or unauthorized advertising, promotional materials, \"junk mail,\" \"spam,\" \"chain letters,\" \"pyramid schemes,\" \"affiliate links,\" or any other form of solicitation.",
+                "link": {}
+              }
+            ],
+            "order": 7,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You may not link to or frame the Service, or any portion thereof, except as provided herein. The Operator does not permit activities such as bring-up or presenting content of the Service within another website.  In this regard, without limiting the provisions contained in these Terms of Use, you may not frame any webpage from the Service.  Further, you may not archive, cache or mirror any of the Service, or any part thereof.",
+                "link": {}
+              }
+            ],
+            "order": 8,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You will not use the Service for any illegal or unauthorized purpose or violate any applicable, state, provincial, federal, or local laws in your jurisdiction (including but not limited to intellectual property laws, criminal laws against money laundering, or tax laws).",
+                "link": {}
+              }
+            ],
+            "order": 9,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You will not \"stalk\" or otherwise harass anyone on or through the Service.",
+                "link": {}
+              }
+            ],
+            "order": 10,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You will not pretend that you are, or that you represent, someone else, or impersonate any other person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity.",
+                "link": {}
+              }
+            ],
+            "order": 11,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You will not access another registered user’s account without that registered user’s permission, nor will you compromise another registered user’s account.  You agree that if such acts are brought to the attention of the Operator, the Operator may (1) immediately terminate your account, if any; and (2) provide all relevant information to law enforcement officials in order to assist in an investigation of your actions.",
+                "link": {}
+              }
+            ],
+            "order": 12,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You will not violate nor attempt to violate the security of the Service, including, without limitation:",
+                "link": {}
+              }
+            ],
+            "order": 13,
+            "visible": true,
+            "child": [
+              "accessing data not intended for you, including logging into a server or account which you are not authorized to access;",
+              "attempting to probe, scan or test the vulnerability of a system or network to breach security or authentication measures without proper authorization;",
+              "using any \"deep-link\", \"page-scrape\", \"robot\", \"spider\" or other automatic device, program, algorithm or methodology, or any similar or equivalent manual process, to access, acquire, copy or monitor any portion of the Service or any content, or in any way reproduce or circumvent the navigational structure or presentation of the Service or any content, to obtain or attempt to obtain any materials, documents or information through any means not purposely made available through the Service;",
+              "taking any action that imposes an unreasonable or disproportionately large load on the infrastructure of the Service or the Operator’s systems or networks, or any systems or networks connected to the Service or to the Operator’s systems;",
+              "conducting a reverse look-up, tracing or seeking to trace any information on any other user to its source, or exploit the Service or information made available or offered by or through the Service, in any way where the purpose is to reveal any information, including but not limited to personal identification or information, other than your own information, as provided for by the Service;",
+              "attempting to interfere with, disrupt or disable service to any user, host or network, including, without limitation, via means of \"denial of service\" attacks, overloading, \"flooding\", \"mailbombing\" or \"crashing\";",
+              "disrupting network nodes or network services or otherwise restricting, inhibiting, disrupting or impeding the Operator’s ability to monitor or make available the Service; or",
+              "taking any action in order to obtain services to which you are not entitled."
+            ]
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You shall not transmit email or any other content that includes personal or identifying information about another person without that person's explicit consent.",
+                "link": {}
+              }
+            ],
+            "order": 14,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You shall not transmit email or any other content that is false, deceptive, misleading, deceitful, or constitutes \"bait and switch\".",
+                "link": {}
+              }
+            ],
+            "order": 15,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You shall not sublicense, reproduce, duplicate, copy, rent, lease, sell, resell, exploit, redistribute, modify, create derivative works from, reverse engineer, broadcast, Distribute, disseminate, decompile, publish, transmit, translate, adapt or vary any of the Service, or any portion thereof, including but not limited to the Site, in any form or by any means whatsoever, be they physical, electronic or otherwise.",
+                "link": {}
+              }
+            ],
+            "order": 16,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You shall not remove any copyright, trademark or proprietary notices from any copies of the Service.",
+                "link": {}
+              }
+            ],
+            "order": 17,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "You shall not create a database in electronic or structured manual form by systematically downloading and storing all or any of the Service.",
+                "link": {}
+              }
+            ],
+            "order": 18,
+            "visible": true,
+            "child": []
+          },
+          {
+            "keyword": [],
+            "content": [
+              {
+                "text": "Your use of the Service cannot in any way harm or prejudice the image or perception of the Service or the Operator to others receiving the information on the Service.",
+                "link": {}
+              }
+            ],
+            "order": 19,
+            "visible": true,
+            "child": []
+          }
+        ]
+      },
+      "childData": []
+    },
+    {
+      "title": "Links to Other Sites & Resources",
+      "content": [
+        "While the Service may contain links to external sites or resources, the Operator is not responsible for the content of any of the linked external sites or resources. The Operator provides these links as a convenience. THE OPERATOR DOES NOT ENDORSE ANY EXTERNAL SITE OR RESOURCE OR ACCEPT RESPONSIBILITY OR LIABILITY FOR ITS CONTENT, PRODUCTS, SERVICES, ACCURACY, AUTHENTICITY, TIMELINESS OR COMPLETENESS. You access these linked external sites and resources at your own risk. You may find some content to be offensive, harmful, inaccurate, or deceptive. You agree that the Operator shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, products or services available on or through any such external sites or resources.",
+        "The Service may contain the opinions, advice, statements and views of other users. Given the interactive nature of the Service, we cannot endorse, guarantee, or be responsible for the accuracy, efficacy, or veracity of any content generated by our users. Any opinions, advice, statements and views expressed or made available by third parties, including registered users and users, are those of the respective author(s) or distributor(s) and not of the Operator. THE OPERATOR NEITHER ENDORSES NOR IS RESPONSIBLE FOR THE ACCURACY OR RELIABILITY OF ANY OPINION, ADVICE, STATEMENT OR VIEW MADE ON THE SERVICE BY ANYONE OTHER THAN AUTHORIZED THE OPERATOR EMPLOYEE SPOKESPERSONS WHILE ACTING IN THEIR OFFICIAL CAPACITIES."
+      ],
+      "order": 13,
+      "visible": true,
+      "childlist": {},
+      "childData": []
+    },
+    {
+      "title": "Disclaimers and Limitation of Liability",
+      "content": [
+        "THE LAWS OF CERTAIN JURISDICTIONS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR CONDITIONS OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE BELOW DISCLAIMERS, EXCLUSIONS OR LIMITATIONS MIGHT NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.",
+        "YOU AGREE THAT THE SERVICE AND ALL PRODUCTS AND SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICE ARE PROVIDED BY THE OPERATOR ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS, UNLESS OTHERWISE SPECIFIED IN WRITING.  YOU FURTHER AGREE THAT YOUR USE OF THE SERVICE AND ALL PRODUCTS AND SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICE BY THE OPERATOR SHALL BE AT YOUR SOLE RISK.",
+        "TO THE FULLEST EXTENT PERMITTED BY LAW, THE OPERATOR DISCLAIMS ALL WARRANTIES, CONDITIONS, GUARANTEES AND/OR REPRESENTATIONS, EXPRESS, STATUTORY OR IMPLIED, IN CONNECTION WITH THE SERVICE, THE USER CONTENT, THE SITES AND RESOURCES LINKED TO THE SERVICE, ALL PRODUCTS AND SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICE AND YOUR ACCESS TO AND USE THEREOF, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTY, CONDITION, GUARANTEE AND/OR REPRESENTATION OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, TITLE, PERFORMANCE, QUALITY, NON-INFRINGEMENT, SECURITY, ACCURACY, COMPLETENESS, SUITABILITY OR ANY IMPLIED WARRANTY, CONDITION, GUARANTEE OR REPRESENTATION ARISING FROM COURSE OF DEALING OR USAGE OF TRADE.",
+        "THE OPERATOR MAKES NO WARRANTIES, CONDITIONS, GUARANTEES OR REPRESENTATIONS ABOUT THE TRUTHFULNESS, ACCURACY OR COMPLETENESS OF THE USER CONTENT, THE SERVICE AND/OR THE CONTENT OF ANY SITES OR RESOURCES LINKED TO THE SERVICE, OR THE AVAILABILITY, QUALITY, CHARACTERISTICS, LEGITIMACY, FUNCTIONALITY, SECURITY OR SAFETY OF ANY SITES OR RESOURCES LINKED TO THE SERVICE, THE USER CONTENT, THE SERVICE AND/OR THE SERVICES AND PRODUCTS INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICE, AND THE OPERATOR ASSUMES NO LIABILITY OR RESPONSIBILITY THEREOF.",
+        "THE OPERATOR ASSUMES NO LIABILITY OR RESPONSIBILITY FOR ANY (A) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SERVICE; (B) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN; (C) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SERVICE; (D) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR THROUGH THE SERVICE BY ANY THIRD PARTY; AND/OR (E) ANY ERRORS OR OMISSIONS IN THE SERVICE AND USER CONTENT, OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OR ACCESS OF THE SERVICE OR USER CONTENT DISTRIBUTED OR OTHERWISE MADE AVAILABLE VIA THE SERVICE.",
+        "IN NO EVENT SHALL THE OPERATOR BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE OR EXEMPLARY LOSS OR DAMAGE ARISING FROM, CONNECTED WITH, OR RELATING TO (A) PRODUCTS OR SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICE; (B) THE SERVICE AND YOUR ACCESS AND USE THEREOF; (C) THE USER CONTENT; (D) THE SITES AND RESOURCES LINKED TO THE SERVICE; AND (E) THESE TERMS OF USE, INCLUDING BUT NOT LIMITED TO, LOSS OF DATA, BUSINESS, MARKETS, SAVINGS, INCOME, PROFITS, USE, PRODUCTION, REPUTATION OR GOODWILL, ANTICIPATED OR OTHERWISE, OR ECONOMIC LOSS, UNDER ANY THEORY OF LIABILITY (WHETHER IN CONTRACT, TORT, STRICT LIABILITY OR ANY OTHER THEORY OR LAW OR EQUITY), REGARDLESS OF ANY NEGLIGENCE OR OTHER FAULT OR WRONGDOING (INCLUDING WITHOUT LIMITATION GROSS NEGLIGENCE AND FUNDAMENTAL BREACH) BY THE OPERATOR OR ANY PERSON FOR WHOM THE OPERATOR IS RESPONSIBLE, AND EVEN IF THE OPERATOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE BEING INCURRED.  IN THOSE JURISDICTIONS THAT DO NOT ALLOW THE EXCLUSION OR THE LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, IN SUCH JURISDICTIONS, THE LIABILITY OF THE OPERATOR SHALL BE LIMITED TO THE FULL EXTENT PERMITTED BY LAW.",
+        "YOU HAVE SOLE RESPONSIBILITY FOR ANY DECISIONS YOU MAKE BASED ON INFORMATION CONTAINED IN THE SERVICE.  IF YOU USE THE SERVICE, YOU ARE AGREEING THAT THIS LIMITATION OF LIABILITY IS REASONABLE AND IN KEEPING WITH THE NATURE OF THE SERVICE.",
+        "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, YOU ACKNOWLEDGE AND AGREE THAT YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY DISPUTE WITH THE OPERATOR IS TO STOP USING THE SERVICE AND TO CANCEL YOUR ACCOUNT.",
+        "THE OPERATOR WILL NOT BE RESPONSIBLE FOR ANY DAMAGES YOU OR ANY THIRD-PARTY MAY SUFFER AS A RESULT OF THE TRANSMISSION, STORAGE OR RECEIPT OF CONFIDENTIAL OR PROPRIETARY INFORMATION THAT YOU MAKE OR THAT YOU EXPRESSLY OR IMPLICITLY AUTHORIZE THE OPERATOR TO MAKE, OR FOR ANY ERRORS OR ANY CHANGES MADE TO ANY TRANSMITTED, STORED OR RECEIVED INFORMATION.",
+        "THE OPERATOR’S TOTAL LIABILITY TO YOU OR ANY THIRD PARTIES IN ANY CIRCUMSTANCE IS LIMITED TO THE GREATER OF (A) THE AMOUNT OF FEES YOU PAID TO THE OPERATOR IN THE 12 MONTHS PRIOR TO THE ACTION GIVING RISE TO LIABILITY; AND (B) $100. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.",
+        "IN ADDITION, NO ADVICE OR INFORMATION (ORAL OR WRITTEN) OBTAINED BY YOU FROM THE OPERATOR SHALL CREATE ANY WARRANTY.",
+        "YOU AND THE OPERATOR AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SERVICE, ANY PRODUCTS OR SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICE, THE USER CONTENT, YOUR ACCESS AND USE OF THE SERVICE, ANY SITES OR RESOURCES LINKED TO THE SERVICE OR THESE TERMS OF USE, MUST COMMENCE AND BE FILED WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION AROSE; OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED."
+      ],
+      "order": 14,
+      "visible": true,
+      "childlist": {},
+      "childData": []
+    },
+    {
+      "title": "INDEMNITY",
+      "content": [
+        "BY ACCEPTING THESE TERMS OF USE, YOU AGREE TO INDEMNIFY AND HOLD THE OPERATOR HARMLESS FROM AND AGAINST ANY AND ALL ACTIONS, CLAIMS, PROCEEDINGS, COSTS, DAMAGES, DEMANDS, LIABILITIES, EXPENSES OR TAX ASSESSMENTS, WHATSOEVER, INCLUDING REASONABLE LEGAL FEES AND DISBURSEMENTS, ARISING OUT OF, SUSTAINED, INCURRED OR PAID BY US, DIRECTLY OR INDIRECTLY, IN RESPECT OF (a) YOUR USE AND ACCESS OF THE SERVICE; (b) YOUR ACTUAL OR ALLEGED BREACH OF THESE TERMS OF USE; (c) YOUR USE OF ANY SITES OR RESOURCES LINKED TO THE SERVICE; YOUR ACTUAL OR ALLEGED INFRINGEMENT BY YOU, OR ANY THIRD PARTY USING YOUR ACCOUNT OR PASSWORD, OF ANY INTELLECTUAL PROPERTY OR OTHER RIGHT OF ANY PERSON OR ENTITY; (e) ANY USER CONTENT YOU DISTRIBUTE ON OR THROUGH THE SERVICE OR WHICH IS SENT TO US BY E-MAIL OR OTHER CORRESPONDENCE; AND/OR (f) YOUR ACTUAL OR ALLEGED VIOLATION OF ANY APPLICABLE LAWS, RULES, REGULATIONS OR RIGHTS OF ANOTHER."
+      ],
+      "order": 15,
+      "visible": true,
+      "childlist": {},
+      "childData": []
+    },
+    {
+      "title": "Privacy",
+      "content": [
+        "The Operator collects, uses and discloses users’ personal information in accordance with its Privacy Policy, which is available on the Service or upon written request. The Operator’s Privacy Policy may be changed from time to time by the Operator in its discretion without any notice or liability to you or any other person by making an amended Privacy Policy accessible through the Service. By accepting these Terms of Use, and each time you use the Service, you consent to the collection, use and disclosure of your personal information by the Operator in accordance with the Privacy Policy as it then reads."
+      ],
+      "order": 16,
+      "visible": true,
+      "childlist": {},
+      "childData": []
+    },
+    {
+      "title": "Governing Law and Forum",
+      "content": [
+        "The Operator and the Service (excluding linked websites or resources) are physically located within the Province of Manitoba, Canada. These Terms of Use will be governed by the laws of the Province of Manitoba and the federal laws of Canada and shall be treated in all respects as a Manitoba contract, without reference to the principles of conflicts of law. Any dispute between you and the Operator or any other person arising from, connected with or relating to the Service, these Terms of Use, or any related matters (collectively, \"Disputes\") will be resolved before the Courts of Manitoba, sitting in the City of Winnipeg, and you hereby irrevocably submit and attorn to the original and exclusive jurisdiction of those courts in respect of all Disputes. Notwithstanding the foregoing, you and the Operator may apply to the court in any jurisdiction to obtain injunctive relief and any other available equitable or legal remedy regarding any matter relating to confidentiality, intellectual property rights or proprietary rights.",
+        "You and the Operator expressly exclude the UN contention on Contracts for the International Sale of Goods and The International Sale of Goods Act (Manitoba), as amended, replaced or re-enacted from time to time.",
+        "You agree to waive any right that you may have to: (i) a trial by jury; and (ii) commence or participate in any class action against the Operator related to the Service, the User Content, these Terms of Use, any sites or resources linked to the Service and/or the products and services included on or otherwise made available to you through the Service. You also agree to opt out of any class proceedings against the Operator.",
+        "You and the Operator have required that these Terms of Use and all documents relating thereto be drawn-up in English. Vous et the Operator avez demandé que cette contention ainsi que tous les documents qui s'y rattachent soient rédigés en anglais.",
+        "You consent to the exchange of information and documents between us electronically over the internet or by email.  You agree that this electronic agreement shall be equivalent of a written paper agreement between us.",
+        "Use of the Service is not authorized in any jurisdiction that does not give effect to all provisions of these Terms of Use, including without limitation, this Section. You shall comply with all applicable domestic and international laws, statutes, ordinances and regulations regarding your use of the Service. Some jurisdictions may have restrictions on the use of the internet by their residents. You agree not to impersonate another person in your use of the Service or the sending of any e-mail to an address listed on the Service."
+      ],
+      "order": 17,
+      "visible": true,
+      "childlist": {},
+      "childData": []
+    },
+    {
+      "title": "Termination",
+      "content": [
+        "Notwithstanding any other provision of these Terms of Use and without prejudice to any other rights we may have, the Operator may, in its discretion and for its convenience, at any time, change, discontinue, delete, deactivate, modify, restrict, suspend or terminate, immediately, temporarily or permanently, these Terms of Use, your password, your account, the User Content and/or the Service, or any part thereof, without any notice or liability to you or any other person, for any reason.",
+        "If we terminate your account, your right to use the Service will immediately cease. You may terminate your account at any time and for any reason, and we will make available through the Service reasonable means for you to do so. If you do not comply with these Terms of Use at any time, the Operator reserves the right to immediately suspend or terminate your access to the Service, or any part thereof, and/or your account, if any.",
+        "If these Terms of Use or your permission to access or use all or any part of the Service is terminated for any reason, then these Terms of Use and all other then existing transaction agreements between you and the Operator will continue to apply and be binding upon you regarding your prior access to and use of the Service, and anything connected with, relating to or arising therefrom. You agree that the Operator shall not be liable to you or any third-party for any termination of your access to and use of the Service or any part thereof.",
+        "Any such termination by the Operator shall be in addition to and without prejudice to such rights and remedies as may be available to the Operator, including injunction and other equitable remedies.",
+        "All provisions of these Terms of Use will survive termination or expiry of these Terms of Use, including without limitation, the disclaimers, limitations on liability, warranties, representations, ownership, termination, interpretation, intellectual property and indemnity provisions of these Terms of Use."
+      ],
+      "order": 18,
+      "visible": true,
+      "childlist": {},
+      "childData": []
+    },
+    {
+      "title": "General",
+      "content": [],
+      "order": 19,
+      "visible": true,
+      "childlist": {},
+      "childData": [
+        {
+          "title": "Entire Agreement",
+          "order": 1,
+          "visible": true,
+          "content": [
+            "These Terms of Use, as they may be amended from time to time in accordance with the provisions of these Terms of Use, and all other then existing transaction agreements between you and the Operator constitute and contains the entire agreement between you and the Operator with respect to your use of the Service and with respect to the subject matter hereof and supersedes any prior oral or written agreements. In the event of a conflict between these Terms of Use and any policies, rules or procedures posted on the Service, these Terms of Use will prevail."
+          ]
+        },
+        {
+          "title": "Relationship",
+          "order": 2,
+          "visible": true,
+          "content": [
+            "No agency, partnership, joint venture, employee-employer or franchiser-franchisee relationship is intended or created by these Terms of Use."
+          ]
+        },
+        {
+          "title": "Assignment and Enurement",
+          "order": 3,
+          "visible": true,
+          "content": [
+            "The Operator may assign these Terms of Use to any third party. These Terms of Use cannot be assigned or transferred, in whole or in part, by you.  These Terms of Use will enure to the benefit of and be binding upon each of you and the Operator and our respective heirs, executors, personal representatives, successors and permitted assigns."
+          ]
+        },
+        {
+          "title": "No Waiver",
+          "order": 4,
+          "visible": true,
+          "content": [
+            "No waiver of any provision of these Terms of Use shall be binding on the Operator unless executed by the Operator in writing. No waiver of any of the provisions of these Terms of Use shall be deemed or shall constitute a waiver of any other provision (whether or not similar) nor shall such waiver constitute a continuing waiver unless otherwise expressly provided.  The failure of the Operator to exercise or enforce any right or provision of these Terms of Use shall not constitute a waiver of such right or provision."
+          ]
+        },
+        {
+          "title": "Severability",
+          "order": 5,
+          "visible": true,
+          "content": [
+            "Any provision of these Terms of Use which is held by a court of competent jurisdiction to be illegal, invalid or unenforceable in such jurisdiction shall, as to that jurisdiction, be ineffective to the extent of such illegality, invalidity or unenforceability and shall otherwise be enforced to the maximum extent permitted by law, all without affecting the remaining provisions of these Terms of Use or affecting the legality, validity or enforceability of such provision in any other jurisdiction."
+          ]
+        },
+        {
+          "title": "Headings",
+          "order": 6,
+          "visible": true,
+          "content": [
+            "All article or section headings are for reference and convenience only and shall not be considered in the interpretation of this Agreement."
+          ]
+        },
+        {
+          "title": "Unsolicited Commercial Electronic Messages",
+          "order": 7,
+          "visible": true,
+          "content": [
+            "The inclusion of any email addresses on the Service does not constitute consent to receiving unsolicited commercial electronic messages or SPAM."
+          ]
+        },
+        {
+          "title": "Currency",
+          "order": 8,
+          "visible": true,
+          "content": [
+            "All references to money amounts in these Terms of Use, unless otherwise specified, are in Canadian dollars."
+          ]
+        },
+        {
+          "title": "Read and Understood",
+          "order": 9,
+          "visible": true,
+          "content": ["I have read and accept the terms and conditions in these Terms of Use."]
+        }
+      ]
+    },
+    {
+      "title": "Contact Us",
+      "content": ["If you have any questions, concerns or comments, please contact us at"],
+      "order": 20,
+      "visible": true,
+      "childlist": {},
+      "childData": []
+    }
+  ],
+  "footer": {
+    "name": "Commetix Systems Inc.",
+    "address": "2020 Corydon Avenue, Unit F, Winnipeg, Manitoba R3P 0N2",
+    "email": "daniel@commetix.com",
+    "copyright": "© Copyright (2021) Commetix Systems Inc. All rights reserved."
+  }
+}

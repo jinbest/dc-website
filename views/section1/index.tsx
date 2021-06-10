@@ -13,6 +13,8 @@ import Loading from "../../components/Loading"
 import { motion } from "framer-motion"
 import { useInView } from "react-intersection-observer"
 import { ChildVariantsProps } from "../../models/child-variants-params"
+import TermsModal from "../../components/TermsModal"
+import PrivacyModal from "../../components/PrivacyModal"
 
 const apiClient = ApiClient.getInstance()
 
@@ -48,6 +50,9 @@ const Section1 = () => {
   const [openButton, setOpenButton] = useState(false)
   const [openTrust, setOpenTrust] = useState(false)
   const [openImage, setOpenImage] = useState(false)
+
+  const [openTermsModal, setOpenTermsModal] = useState(false)
+  const [openPrivacyModal, setOpenPrivacyModal] = useState(false)
 
   useEffect(() => {
     setOpenTitle(inViewTitle)
@@ -193,8 +198,8 @@ const Section1 = () => {
               ref={refTrust}
             >
               {thisPage.entering}&nbsp;
-              <span>terms of service</span>&nbsp; and&nbsp;
-              <span>privacy policy.</span>
+              <span onClick={() => setOpenTermsModal(true)}>terms of service</span>&nbsp; and&nbsp;
+              <span onClick={() => setOpenPrivacyModal(true)}>privacy policy.</span>
             </motion.p>
           </motion.div>
         </Grid>
@@ -215,6 +220,8 @@ const Section1 = () => {
           </motion.div>
         </Grid>
       </Grid>
+      <TermsModal openModal={openTermsModal} handleModal={setOpenTermsModal} />
+      <PrivacyModal openModal={openPrivacyModal} handleModal={setOpenPrivacyModal} />
       <Toast params={toastParams} resetStatuses={resetStatuses} />
     </div>
   )
