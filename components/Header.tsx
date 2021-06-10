@@ -28,7 +28,14 @@ const Header = () => {
           {navData.map((item: NavDataParams, index: number) => {
             return (
               <React.Fragment key={index}>
-                {item.visible ? <a href={item.link}>{item.name}</a> : <></>}
+                {item.visible ? (
+                  <a href={item.link}>
+                    {item.name}
+                    {item.icon ? <img src={item.icon} alt="nav-icon" /> : <></>}
+                  </a>
+                ) : (
+                  <></>
+                )}
               </React.Fragment>
             )
           })}

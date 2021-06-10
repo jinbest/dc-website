@@ -9,6 +9,9 @@
   max-width: 1440px;
   text-align: center;
   padding: 100px 32px 0;
+  @media (max-width: 500px) {
+    padding: 70px 15px 0;
+  }
   .section3-title {
     padding: 10px 0;
     max-width: 750px;
@@ -74,6 +77,9 @@
           text-align: left;
           @media (max-width: 960px) {
             font-size: 16px;
+          }
+          @media (max-width: 500px) {
+            font-size: 14px;
           }
         }
         .child-arrow-down {

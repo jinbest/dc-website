@@ -1,8 +1,10 @@
-import React from "react"
+import React, { useState } from "react"
 import config from "../static/config.json"
 import _ from "lodash"
 import { FooterLinkParams, FooterDataParams } from "../models/footer-params"
 import { Grid } from "@material-ui/core"
+import TermsModal from "./TermsModal"
+import PrivacyModal from "./PrivacyModal"
 
 const Footer = () => {
   const bg = config.general.colorPalle.footerBg,
@@ -10,6 +12,9 @@ const Footer = () => {
 
   const socials: FooterLinkParams[] = _.sortBy(thisPage.socials, (o) => o.order),
     data: FooterDataParams[] = _.sortBy(thisPage.data, (o) => o.order)
+
+  const [openTermsModal, setOpenTermsModal] = useState(false)
+  const [openPrivacyModal, setOpenPrivacyModal] = useState(false)
 
   return (
     <div className="footer" style={{ background: bg }}>
@@ -71,17 +76,19 @@ const Footer = () => {
           <p className="footer-copyright">{thisPage.copyright}</p>
           <div className="flex align-center">
             {thisPage.terms.visible ? (
-              <a href={thisPage.terms.link}>{thisPage.terms.title}</a>
+              <span onClick={() => setOpenTermsModal(true)}>{thisPage.terms.title}</span>
             ) : (
               <></>
             )}
             {thisPage.privacy.visible ? (
-              <a href={thisPage.privacy.link}>{thisPage.privacy.title}</a>
+              <span onClick={() => setOpenPrivacyModal(true)}>{thisPage.privacy.title}</span>
             ) : (
               <></>
             )}
           </div>
         </div>
+        <TermsModal openModal={openTermsModal} handleModal={setOpenTermsModal} />
+        <PrivacyModal openModal={openPrivacyModal} handleModal={setOpenPrivacyModal} />
       </div>
     </div>
   )

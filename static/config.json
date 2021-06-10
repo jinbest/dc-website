@@ -18,19 +18,22 @@
         "name": "Features",
         "link": "#features",
         "order": 1,
-        "visible": true
+        "visible": true,
+        "icon": "/img/other/arrow-down-dark.svg"
       },
       {
         "name": "Partners",
         "link": "#partners",
         "order": 2,
-        "visible": true
+        "visible": true,
+        "icon": ""
       },
       {
         "name": "Pricing",
         "link": "#pricing",
         "order": 3,
-        "visible": false
+        "visible": false,
+        "icon": ""
       }
     ]
   },

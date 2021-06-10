@@ -3,6 +3,9 @@
   width: 100%;
   height: auto;
   min-height: 1000px;
+  @media (max-width: 500px) {
+    min-height: 850px;
+  }
 }
 
 .section1-shape {
@@ -10,12 +13,14 @@
   height: auto;
   min-height: 1000px;
   right: 0;
-  // z-index: -1;
   width: 650px;
   background-size: cover;
   background-repeat: no-repeat;
   img {
     height: 100%;
+  }
+  @media (max-width: 500px) {
+    min-height: 850px;
   }
 }
 
@@ -51,6 +56,9 @@
   @media (max-width: 960px) {
     text-align: center;
     padding: 140px 32px 0;
+  }
+  @media (max-width: 500px) {
+    padding: 100px 15px 0;
   }
 }
 
