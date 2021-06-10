@@ -31,6 +31,9 @@
   .section2-card-container {
     padding: 30px 0 0;
   }
+  @media (max-width: 500px) {
+    padding: 70px 15px;
+  }
 }
 
 .section2-card {

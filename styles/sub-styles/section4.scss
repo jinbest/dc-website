@@ -9,6 +9,9 @@
   max-width: 1440px;
   text-align: center;
   padding: 100px 32px;
+  @media (max-width: 500px) {
+    padding: 70px 15px 40px;
+  }
   .section4-title {
     padding: 10px 0;
     max-width: 750px;
@@ -23,6 +26,9 @@
     margin: auto;
     .sec4-subtitle {
       padding-bottom: 40px;
+      @media (max-width: 500px) {
+        padding-bottom: 15px;
+      }
     }
     .child-card {
       text-align: left;
@@ -42,6 +48,9 @@
         line-height: 32px;
         letter-spacing: -0.03em;
         margin-right: 10px;
+        @media (max-width: 500px) {
+          font-size: 20px;
+        }
       }
       img {
         margin-right: 5px;
@@ -70,6 +79,9 @@
         letter-spacing: -0.02em;
         @media (max-width: 960px) {
           text-align: center;
+        }
+        @media (max-width: 500px) {
+          font-size: 14px;
         }
       }
     }

@@ -3,4 +3,5 @@ export interface NavDataParams {
   link: string
   order: number
   visible: boolean
+  icon: string
 }
