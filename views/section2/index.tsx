@@ -54,7 +54,7 @@ const Section2 = () => {
     })
     setTimeout(() => {
       const controls = animate(0, 1, {
-        duration: 0.5,
+        duration: 0.2,
         onUpdate(value) {
           setStyle({
             opacity: value,
@@ -63,7 +63,7 @@ const Section2 = () => {
         },
       })
       return () => controls.stop()
-    }, 1000)
+    }, 500)
   }
 
   return (

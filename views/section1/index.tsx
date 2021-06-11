@@ -74,14 +74,6 @@ const Section1 = () => {
     setOpenImage(inViewImage)
   }, [inViewImage])
 
-  useEffect(() => {
-    if (value && !ValidateEmail(value)) {
-      setErrEmail(true)
-    } else {
-      setErrEmail(false)
-    }
-  }, [value])
-
   const handleSubmitEmail = async () => {
     const apiUrl = `${ApiConfig.ADMIN_SERVICE_API_URL}dc/waitlist`
     const params: PostEmailParams = {
@@ -95,9 +87,12 @@ const Section1 = () => {
     try {
       setIsSubmiting(true)
       await apiClient.post<any>(apiUrl, params)
-      setValue("")
     } catch (error) {
-      msg = "Failed to add waitlist"
+      if (error.response.status === 409) {
+        msg = "That email already exist on the waitlist"
+      } else {
+        msg = "Something went wrong, failed to add email to the waitlist"
+      }
       failed = true
     } finally {
       setIsSubmiting(false)
@@ -106,6 +101,7 @@ const Section1 = () => {
         isSuccess: !failed,
         isError: failed,
       })
+      setValue("")
     }
   }
 
@@ -113,6 +109,13 @@ const Section1 = () => {
     event.preventDefault()
     if (value && ValidateEmail(value)) {
       handleSubmitEmail()
+    } else {
+      setErrEmail(true)
+      setTimeout(() => {
+        setErrEmail(false)
+        setValue("")
+      }, 1500)
+      return
     }
   }
 
@@ -138,7 +141,7 @@ const Section1 = () => {
           >
             <motion.p
               variants={childVariants({ y: 150 } as ChildVariantsProps)}
-              transition={{ duration: 0.5 }}
+              transition={{ duration: 0.3 }}
               className="main-title section1-title"
               style={{ color: brandOxford }}
               ref={refTitle}
@@ -150,11 +153,11 @@ const Section1 = () => {
           <motion.div
             initial="close"
             animate={openContent ? "open" : "close"}
-            variants={variants(0.8)}
+            variants={variants(0.5)}
           >
             <motion.p
               variants={childVariants({ y: 100 } as ChildVariantsProps)}
-              transition={{ duration: 1.2 }}
+              transition={{ duration: 1 }}
               className="main-content section1-content"
               style={{ color: brandDark }}
               ref={refContent}
@@ -166,7 +169,7 @@ const Section1 = () => {
           <motion.div
             initial="close"
             animate={openButton ? "open" : "close"}
-            variants={variants(1.5)}
+            variants={variants(1)}
           >
             <motion.div className="flex justify-between" ref={refButton}>
               <div className="custom-input">
@@ -191,7 +194,11 @@ const Section1 = () => {
             </motion.div>
           </motion.div>
 
-          <motion.div initial="close" animate={openTrust ? "open" : "close"} variants={variants(2)}>
+          <motion.div
+            initial="close"
+            animate={openTrust ? "open" : "close"}
+            variants={variants(1.5)}
+          >
             <motion.p
               className="main-content section1-content"
               style={{ color: brandDark }}
