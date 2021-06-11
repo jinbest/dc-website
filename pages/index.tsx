@@ -1,11 +1,11 @@
 import React from "react"
-import { GetStaticProps } from "next"
+// import { GetStaticProps } from "next"
 import Main from "../views/Main"
 import MainLayout from "../layouts/MainLayout"
 
-interface Props {
-  test: string
-}
+// interface Props {
+//   test: string
+// }
 
 export default function Index() {
   return (
@@ -15,10 +15,10 @@ export default function Index() {
   )
 }
 
-export const getStaticProps: GetStaticProps<Props> = async () => {
-  return {
-    props: {
-      test: "test",
-    },
-  }
-}
+// export const getStaticProps: GetStaticProps<Props> = async () => {
+//   return {
+//     props: {
+//       test: "test",
+//     },
+//   }
+// }
