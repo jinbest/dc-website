@@ -5,7 +5,7 @@ import Modal from "@material-ui/core/Modal"
 import Backdrop from "@material-ui/core/Backdrop"
 import Fade from "@material-ui/core/Fade"
 import privacy from "../static/privacy.json"
-import _, { isEmpty } from "lodash"
+import _ from "lodash"
 
 type Props = {
   openModal: boolean
@@ -57,7 +57,11 @@ const PrivacyModal = ({ openModal, handleModal }: Props) => {
                         <div>
                           <li
                             className="modal-conten"
-                            style={{ textTransform: "uppercase", padding: "7px 0" }}
+                            style={{
+                              textTransform: "uppercase",
+                              padding: "7px 0",
+                              fontWeight: item.contentBold ? "bold" : "inherit",
+                            }}
                           >
                             <span>{item.title}</span>
                           </li>

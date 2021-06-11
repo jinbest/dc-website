@@ -451,10 +451,335 @@
             "bold": "Infringement.",
             "thin": "The parties agree that:"
           },
-          "child": []
+          "child": [
+            {
+              "title": "The Licensee and Commetix shall promptly notify each other in writing of any conflicting use, act of infringement or appropriation that comes to their attention regarding the Software, the Results, the Confidential Information and/or the Licensee Content, and all Intellectual Property relating thereto, and shall provide any evidence relating to same which is reasonably available.",
+              "child": []
+            },
+            {
+              "title": "In such cases where it is alleged that a third party is infringing the Intellectual Property rights of Commetix,  Commetix shall have the sole right, but not the obligation, at Commetix’s sole cost and expense, (i) to bring an action for infringement against the alleged infringer or to take steps as it may deem necessary in order to terminate such conflict, infringement or appropriation; or (ii) to investigate, defend, litigate and settle any such complaint.  Commetix may in its sole discretion settle any action or complaint as it sees fit.  Any damages or sums recovered by Commetix in such action or complaint or any settlement thereof shall be retained by Commetix. The Licensee shall not at any time settle any such action or complaint without first obtaining the written consent of Commetix.",
+              "child": []
+            },
+            {
+              "title": "The Licensee shall cooperate fully with and assist Commetix to the fullest extent possible on any such action or step and in the event of any such complaint and execute such documents and do such other acts and things as in the opinion of Commetix may be necessary, including to testify when requested by Commetix, and to make available any records, papers, information, specimens, and the like.",
+              "child": []
+            }
+          ]
         }
       ],
       "order": 8,
+      "visible": true
+    },
+    {
+      "title": "Limitations and Disclaimers",
+      "contentBold": true,
+      "children": [
+        {
+          "title": {
+            "bold": "Disclaimers & Limitation of Liability.",
+            "thin": "The parties agree that:"
+          },
+          "child": [
+            {
+              "title": "THE LAWS OF CERTAIN JURISDICTIONS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR CONDITIONS OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO THE LICENSEE, SOME OR ALL OF THE BELOW DISCLAIMERS, EXCLUSIONS OR LIMITATIONS MIGHT NOT APPLY TO THE LICENSEE, AND THE LICENSEE MIGHT HAVE ADDITIONAL RIGHTS.",
+              "child": []
+            },
+            {
+              "title": "THE LICENSEE AGREES THAT THE SOFTWARE, THE RESULTS AND THE CONFIDENTIAL INFORMATION, AND ALL INTELLECTUAL PROPERTY RELATING THERETO, ARE PROVIDED BY COMMETIX ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS. THE LICENSEE FURTHER AGREES THAT THE LICENSEE’S ACCESS AND USE OF THE SOFTWARE, THE RESULTS AND THE CONFIDENTIAL INFORMATION, AND ALL INTELLECTUAL PROPERTY RELATING THERETO, SHALL BE AT THE LICENSEE’S SOLE RISK. ",
+              "child": []
+            },
+            {
+              "title": "TO THE FULLEST EXTENT PERMITTED BY LAW, COMMETIX DISCLAIMS ALL WARRANTIES, CONDITIONS, GUARANTEES AND/OR REPRESENTATIONS, EXPRESS, STATUTORY IMPLIED OR ARISING BY CUSTOM, COURSE OF DEALING OR TRADE USAGE, IN CONNECTION WITH THE SOFTWARE, THE RESULTS, THE LICENSEE CONTENT AND THE CONFIDENTIAL INFORMATION, AND ALL INTELLECTUAL PROPERTY RELATING THERETO, AND THE LICENSEE’S ACCESS TO AND USE THEREOF, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTY, CONDITION, GUARANTEE AND/OR REPRESENTATION OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, TITLE, PERFORMANCE, QUALITY, NON-INFRINGEMENT, SECURITY, ACCURACY, COMPLETENESS, SUITABILITY OR ANY IMPLIED WARRANTY, CONDITION, GUARANTEE OR REPRESENTATION ARISING FROM COURSE OF DEALING OR USAGE OF TRADE.",
+              "child": []
+            },
+            {
+              "title": "COMMETIX MAKES NO WARRANTIES, CONDITIONS, GUARANTEES OR REPRESENTATIONS ABOUT THE TRUTHFULNESS, USEFULNESS, ACCURACY OR COMPLETENESS OF THE SOFTWARE, THE RESULTS,  THE LICENSEE CONTENT AND CONFIDENTIAL INFORMATION, AND INCLUDING ALL INTELLECTUAL PROPERTY RELATING THERETO, OR THE AVAILABILITY, QUALITY, CHARACTERISTICS, LEGITIMACY, FUNCTIONALITY, SECURITY OR SAFETY OF ANY OF THE SOFTWARE, THE RESULTS, THE LICENSEE CONTENT AND CONFIDENTIAL INFORMATION, AND INCLUDING ALL INTELLECTUAL PROPERTY RELATING THERETO, AND COMMETIX ASSUMES NO LIABILITY OR RESPONSIBILITY THEREOF. ",
+              "child": []
+            },
+            {
+              "title": "COMMETIX ASSUMES NO LIABILITY OR RESPONSIBILITY FOR ANY (A) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM THE LICENSEE’S ACCESS TO AND USE OF THE SOFTWARE, THE RESULTS AND/OR CONFIDENTIAL INFORMATION, AND INCLUDING ALL INTELLECTUAL PROPERTY RELATING THERETO; (B) ANY UNAUTHORIZED ACCESS TO AND USE OF COMMETIX’S SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN; (C) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SOFTWARE OR THE RESULTS; (D) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR THROUGH THE SOFTWARE AND/OR THE RESULTS BY ANY THIRD PARTY; AND/OR (E) ANY ERRORS OR OMISSIONS CONTAINED IN THE SOFTWARE, THE RESULTS, THE LICENSEE CONTENT AND/OR CONFIDENTIAL INFORMATION, AND INCLUDING ALL INTELLECTUAL PROPERTY RELATING THERETO, AND/OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE ACCESS TO OR USE OF THE SOFTWARE, THE RESULTS, THE LICENSEE CONTENT AND/OR CONFIDENTIAL INFORMATION, AND ALL INTELLECTUAL PROPERTY RELATING THERETO.",
+              "child": []
+            },
+            {
+              "title": "IN NO EVENT SHALL COMMETIX BE LIABLE TO THE LICENSEE OR ANY OTHER PERSON FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE OR EXEMPLARY LOSS OR DAMAGE ARISING FROM, CONNECTED WITH, OR RELATING TO (I) THE SOFTWARE, THE RESULTS, THE LICENSEE CONTENT AND/OR CONFIDENTIAL INFORMATION, AND INCLUDING ALL INTELLECTUAL PROPERTY RELATING THERETO, AND (2) THIS AGREEMENT, INCLUDING BUT NOT LIMITED TO, LOSS OF DATA, BUSINESS, BUSINESS INTERRUPTION, MARKETS, SAVINGS, INCOME, PROFITS, USE, PRODUCTION, REPUTATION AND/OR GOODWILL, ANTICIPATED OR OTHERWISE, AND/OR ECONOMIC LOSS, UNDER ANY THEORY OF LIABILITY (WHETHER IN CONTRACT, TORT, STRICT LIABILITY OR ANY OTHER THEORY OR LAW OR EQUITY), REGARDLESS OF ANY NEGLIGENCE OR OTHER FAULT OR WRONGDOING (INCLUDING WITHOUT LIMITATION GROSS NEGLIGENCE AND FUNDAMENTAL BREACH) BY COMMETIX OR ANY PERSON FOR WHOM COMMETIX IS RESPONSIBLE, AND EVEN IF COMMETIX HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE BEING INCURRED.  IN THOSE JURISDICTIONS THAT DO NOT ALLOW THE EXCLUSION OR THE LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, IN SUCH JURISDICTIONS, THE LIABILITY OF COMMETIX SHALL BE LIMITED TO THE FULL EXTENT PERMITTED BY LAW.",
+              "child": []
+            },
+            {
+              "title": "THE LICENSEE HAS SOLE RESPONSIBILITY FOR ANY DECISIONS THE LICENSEE MAKES BASED ON INFORMATION CONTAINED IN THE SOFTWARE, THE RESULTS, THE LICENSEE CONTENT AND/OR THE CONFIDENTIAL INFORMATION, AND INCLUDING ALL INTELLECTUAL PROPERTY RELATING THERETO.",
+              "child": []
+            },
+            {
+              "title": "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSEE ACKNOWLEDGES AND AGREES THAT ITS SOLE AND EXCLUSIVE REMEDY FOR ANY DISPUTE WITH COMMETIX IS TO STOP USING THE SOFTWARE AND THE RESULTS.",
+              "child": []
+            },
+            {
+              "title": "COMMETIX WILL NOT BE RESPONSIBLE FOR ANY DAMAGES THE LICENSEE OR ANY THIRD PARTY MAY SUFFER AS A RESULT OF THE TRANSMISSION, STORAGE OR RECEIPT OF THE RESULTS AND  CONFIDENTIAL OR PROPRIETARY INFORMATION THAT THE LICENSEE MAKES OR THAT THE LICENSEE EXPRESSLY OR IMPLICITLY AUTHORIZES COMMETIX TO MAKE, OR FOR ANY ERRORS OR ANY CHANGES MADE TO ANY TRANSMITTED, STORED OR RECEIVED INFORMATION OR RESULTS.",
+              "child": []
+            },
+            {
+              "title": "COMMETIX’S TOTAL AGGREGATE LIABILITY TO THE LICENSEE OR ANY THIRD PARTIES IN ANY CIRCUMSTANCE IS LIMITED TO THE GREATER OF (A) THE AMOUNT OF FEES THE LICENSEE PAID TO COMMETIX; AND (B) $100. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO THE LICENSEE.",
+              "child": []
+            },
+            {
+              "title": "IN ADDITION, NO ADVICE OR INFORMATION (ORAL OR WRITTEN) OBTAINED BY THE LICENSEE FROM COMMETIX SHALL CREATE ANY WARRANTY.",
+              "child": []
+            },
+            {
+              "title": "THE LICENSEE AND COMMETIX AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SOFTWARE, THE RESULTS, THE LICENSEE CONTENT AND/OR CONFIDENTIAL INFORMATION, AND INCLUDING ALL INTELLECTUAL PROPERTY RELATING THERETO, OR THIS AGREEMENT, MUST COMMENCE AND BE FILED WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION AROSE; OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.",
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": {
+            "bold": "Release.",
+            "thin": "The Licensee releases and forever discharges Commetix from and against any and all demands, causes of action, liability and claims, at law or in equity, of any nature or kind, including, without limitation, that the Licensee, or its successors or assigns, can, has ever had, now or may hereafter have arising out of or connected in any way with the Software, the Results, the Licensee Content and/or the Confidential Information, and all Intellectual Property relating thereto."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Indemnity.",
+            "thin": "Except if caused by the negligent act or omission of Commetix, the Licensee shall indemnify and hold harmless Commetix from and against any and all claims, damages, losses, expenses or liability of any kind whatsoever from third parties relating to:"
+          },
+          "child": [
+            {
+              "title": "the Licensee’s breach of any provision, representation, warranty or covenant of this Agreement; or",
+              "child": []
+            },
+            {
+              "title": "any loss, injury, death, damage, expense, charge or cost that Commetix may suffer or incur, whether in respect of injury to persons or damage to its property, end-users, or others in any manner that arises out of, or is attributable to the use or access by the Licensee of the Software, the Results and/or the Confidential Information, and all Intellectual Property relating thereto, or any other item provided by Commetix hereunder; or",
+              "child": []
+            },
+            {
+              "title": "the Licensee Content and the Results, including any claim in respect of infringement of a third party’s Intellectual Property rights. Commetix takes no responsibility and assumes no liability for any Licensee Content distributed or submitted by the Licensee or any third party.",
+              "child": []
+            }
+          ]
+        }
+      ],
+      "order": 9,
+      "visible": true
+    },
+    {
+      "title": "Termination",
+      "contentBold": false,
+      "children": [
+        {
+          "title": {
+            "bold": "Term.",
+            "thin": "The term of this Agreement will commence on the date of your acceptance of this Agreement and shall remain in effect until terminated as provided in this Agreement or in any transaction agreement between you and Commetix (the “Term”)."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Termination.",
+            "thin": "The parties agree that:"
+          },
+          "child": [
+            {
+              "title": "Commetix shall have the right to terminate this Agreement, at any time and without cause, upon the provision of one (1) month’s written notice to the Licensee.",
+              "child": []
+            },
+            {
+              "title": "In the event the Licensee fails to pay the Subscription Fee or other amounts due to Commetix pursuant to this Agreement or any transaction agreement between Commetix and you, Commetix can immediately terminate this Agreement and the rights and licences granted hereunder.",
+              "child": []
+            },
+            {
+              "title": "Subject to Section 10.2(a) and Section 10.2(b), in the event that a party (the “Defaulting Party”) shall breach any material provision of this Agreement or fail to observe or perform any covenant or obligation applicable to it under this Agreement, the other party (the “Non-Defaulting Party”) has the right to serve written notice on the Defaulting Party of the Non-Defaulting Party’s intent to terminate this Agreement. The notice of intent to terminate shall specify the alleged breach or failure and if within thirty (30) business days of the date of delivery of such notice to the Defaulting Party, the Defaulting Party has not cured all of the defaults, the Non-Defaulting Party may, at its sole discretion, terminate this Agreement. Such termination shall be without prejudice to any other rights or remedies the Non-Defaulting Party may have in respect of such default.",
+              "child": []
+            },
+            {
+              "title": "The Licensee agrees to pay any outstanding amounts owing to Commetix to the effective date of termination of this Agreement.  Such termination shall not relieve any of the parties from obligations incurred prior to the date of such termination and shall not relieve the Licensee from any of the obligations which survive any termination for any reason of this Agreement.",
+              "child": []
+            },
+            {
+              "title": "If any party becomes insolvent or bankrupt, dissolves or winds up, this Agreement terminates immediately.",
+              "child": []
+            },
+            {
+              "title": "Where either party is given a right to terminate hereunder and does not exercise the same, such forbearance shall not be deemed to be a waiver of such party's right to terminate upon any subsequent or future event by which such party has, or is provided with, the right to terminate this Agreement.",
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": {
+            "bold": "Return.",
+            "thin": "Upon the expiration or termination of this Agreement, for any reason whatsoever:"
+          },
+          "child": [
+            {
+              "title": "The Licensee shall forthwith deliver to Commetix, without charge, the Confidential Information, the Software and the Results, and all Intellectual Property relating thereto, including all copies, and the Licensee shall certify to Commetix that no copies of such material have been retained and have been destroyed.",
+              "child": []
+            },
+            {
+              "title": "The Licensee shall immediately cease any and all access and use of the Software, the Results, the Confidential Information and any other item provided by Commetix hereunder, and any Intellectual Property relating thereto, disclosed or provided by Commetix to the Licensee in any manner whatsoever.",
+              "child": []
+            },
+            {
+              "title": "The Licence will cease and terminate. The Licensee’s access and use to the Software and the Results shall be disabled. The Content Licence shall continue.",
+              "child": []
+            },
+            {
+              "title": "The Licensee agrees that Commetix has the right to notify any persons it deems necessary or appropriate as to the termination or expiry of the rights granted hereunder.",
+              "child": []
+            }
+          ]
+        }
+      ],
+      "order": 10,
+      "visible": true
+    },
+    {
+      "title": "General",
+      "contentBold": false,
+      "children": [
+        {
+          "title": {
+            "bold": "Governing Law.",
+            "thin": "This Agreement will be construed and the legal relationships between the parties determined in accordance with the laws of the Province of Manitoba and the laws of Canada, without regard to conflicts of laws principles, and the parties expressly attorn to the exclusive jurisdiction of the courts of Manitoba for enforcement thereof. Notwithstanding the foregoing, either party may apply to the court to obtain injunctive relief and any other available equitable or legal remedy regarding any matter relating to their confidentiality or proprietary rights. You and Commetix expressly exclude the UN Convention on Contracts for the International Sale of Goods and The International Sale of Goods Act (Manitoba), as amended, replaced or re-enacted from time to time.  You agree to waive any right that you may have to: (i) a trial by jury; and (ii) commence or participate in any class action against Commetix related to the Software, the Results, the Licensee Content and this Agreement. You also agree to opt out of any class proceedings against Commetix."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Arbitration.",
+            "thin": "In the event of any dispute arising between the parties concerning the subject matter of this Agreement, its enforceability or the interpretation thereof (the “Disagreement”):"
+          },
+          "child": [
+            {
+              "title": "the parties shall attempt to amicably resolve the Disagreement;",
+              "child": []
+            },
+            {
+              "title": "if the Disagreement is not resolved pursuant to Section 11.2(a) within thirty (30) days (or such longer period as may be agreed upon between the parties), the parties shall refer the Disagreement to their respective Chief Executive Officers for resolution, or their nominees, if applicable;",
+              "child": []
+            },
+            {
+              "title": "if the Disagreement is not resolved pursuant to Section 11.2(b) within thirty (30) days (or such longer period as may be agreed upon between the parties), a mediator shall be appointed by the parties who shall assist the parties in resolving the Disagreement;",
+              "child": []
+            },
+            {
+              "title": "if the Disagreement is not resolved under Section 11.2(c) within thirty (30) days (or such longer period as may be agreed upon between the parties), any party may refer the Disagreement to be resolved by arbitration conducted as follows:",
+              "child": [
+                "any party may require arbitration by giving written notice to arbitrate to the other parties, which written notice shall identify the nature of the Disagreement;",
+                "if the parties are able to agree upon a single arbitrator, the arbitration shall be conducted before the single arbitrator;",
+                "if the parties have been unable to agree upon the selection of a single arbitrator within two (2) weeks after receipt of the notice requiring arbitration, such arbitrator shall be appointed by a Judge of the Court of Queen’s Bench of the Province of Manitoba upon the application of any of the parties, and a Judge of the Court of Queen’s Bench of the Province of Manitoba shall be entitled to act as such arbitrator, if he or she so desires;",
+                "the arbitrator shall, as soon as reasonably possible, proceed to hear and determine the Disagreement. The parties agree that it is important that all Disagreements be resolved promptly and the parties, therefore, agree that the arbitration shall be required to be conducted expeditiously and that the final disposition shall be accomplished within three (3) weeks or as soon thereafter as reasonably possible. The parties shall ensure that the arbitrator upon accepting the nomination shall agree that the arbitrator has time available for the timely handling of the arbitration in order to reasonably expect to achieve final disposition within three (3) weeks;",
+                "the decision of the arbitrator shall be rendered in writing, with reasons, and shall be promptly served upon all parties. The decision of the arbitrator shall be binding upon the parties;",
+                "in the event of the death, resignation, incapacity, neglect or refusal to act of an arbitrator, and if the neglect or refusal continues for a period of five (5) days after notice in writing of such has been given by any party, another arbitrator shall be nominated or appointed, as described above, to replace the arbitrator;",
+                "the cost of the arbitration shall be in the discretion of the arbitrator, and shall be borne by each party in accordance with the decision of the arbitrator; and",
+                "except as to matters otherwise provided herein, the arbitration shall be conducted in accordance with The Arbitration Act (Manitoba) or any successor legislation then in force. The place of arbitration shall be Winnipeg, Manitoba. The language to be used in the arbitration proceedings shall be English."
+              ]
+            },
+            {
+              "title": "This Section shall not prevent a party hereto from applying to a court of competent jurisdiction for interim protection such as, by way of example, an interim injunction.",
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": {
+            "bold": "Currency.",
+            "thin": "All references to dollar amounts in this Agreement shall be lawful money of Canada, unless indicated otherwise."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "General.",
+            "thin": "All rights and remedies of each party under this Agreement are cumulative and may be exercised at any time and from time to time, independently or in combination. If any provision of this Agreement is determined by a court of competent jurisdiction to be invalid, illegal or unenforceable in any respect, such determination shall not impair or affect the validity, legality or enforceability of any other provision of this Agreement. No party shall be bound by any waiver of any provision of this Agreement unless such waiver is consented to in writing by that party.  No waiver of any provision in this Agreement shall constitute a waiver of any other provision, nor shall any waiver constitute a continuing waiver unless otherwise provided. Time shall be of the essence herein.  The Licensee and Commetix are independent contractors.  No agency relationship or partnership exists between them, and neither of them has the right to enter into a contract on behalf of or as an agent or representative of the other.  The parties shall execute and deliver, or cause to be executed and delivered, upon written request, any and all further documents and do all acts and things or cause such acts or things to be performed which may be necessary or desirable to give effect to the terms of this Agreement. The parties acknowledge that this Agreement and any existing transaction agreements between you and Commetix, together with any schedules and appendices attached thereto, constitutes the entire agreement between the parties and supersedes all previous representations or agreements, written or oral, between the parties hereto. You consent to the exchange of information and documents between us electronically over the internet or by email.  You agree that this electronic agreement shall be equivalent of a written paper agreement between us."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Notice.",
+            "thin": "Any notice, request, demand, consent or other communication required or authorized under this Agreement to be given by any party to the other parties shall be in writing and may be delivered in person or by courier, transmitted by facsimile or via email, or sent by prepaid registered mail, and addressed to the addresses described on any transaction agreement between you and Commetix or such other parties or such other addresses as a party shall notify the other parties in writing.  Any notice, request, demand, consent or other communication sent via email shall be deemed to be received on the date of transmission if confirmation of delivery is obtained and if such notice, request, demand, consent or other communication is also given by courier."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Language of Agreement.",
+            "thin": "The parties hereto confirm that it is their wish that this Agreement, as well as other documents related hereto, including notices, have been and shall be drawn up in the English language only.  Les parties aux présentes confirment leur volonté à cette convention de même que tous les documents, y compris tout avis qui s’y rattache, sont rédigés en anglais seulement."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Other Remedies.",
+            "thin": "Except as expressly provided herein to the contrary, the exercise of a right of termination or any other right or remedy by either party shall be without prejudice to such party's right, subject to the limitations set forth in this Agreement, to pursue any other right or remedy available hereunder or under applicable law."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Survival.",
+            "thin": "Any indemnity or any obligation of confidence under this Agreement is independent and survives termination or expiration of this Agreement.  All obligations under this Agreement that necessarily extend beyond termination or expiration of this Agreement in order to fully achieve their intended purpose shall survive termination or expiration of this Agreement, including without limiting the generality of the foregoing, all indemnification provisions, intellectual property provisions, confidentiality provisions, licence provisions, representations, warranties, covenants, ownership provisions, disclaimers and limitation of liability provisions."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Assignment & Enurement.",
+            "thin": "The Licensee may not assign, transfer or encumber this Agreement, or any of its rights or obligations hereunder, without the prior written consent of Commetix. Any attempted assignment, transfer or encumbrance without the required consent shall be void. The consent of Commetix to any assignment of this Agreement shall not constitute Commetix’s consent to a further assignment. Notwithstanding this Section, this Agreement shall be binding upon and enure to the benefit of the parties hereto and their respective heirs, executors, personal representatives, successors and permitted assigns."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Force Majeure.",
+            "thin": "Neither party shall be liable for any failure or delay in performing its obligations under this Agreement, or for any loss or damage resulting therefrom, due to acts of God, the public enemy, terrorist activities, riots, fires, pandemics, epidemics, and similar causes beyond such party’s control.  In the event of such failure or delay, the date of delivery or performance shall be extended for a period not to exceed the time lost by reason of the failure or delay; provided that the party affected by such delay is using commercially reasonable efforts to mitigate or eliminate the cause of such delay or its effects."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Non-Solicitation.",
+            "thin": "Both during this Agreement and after the termination or expiration of this Agreement for a period of one (1) year, the Licensee shall not nor attempt to, directly or indirectly, whether for the Licensee’s own benefit or for the benefit of any other entity or individual, solicit, encourage, induce or in any way influence any person employed by, or engaged to render services on behalf of Commetix, to leave Commetix or to engage in any activity contrary to or conflicting with the interests of Commetix."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Injunctive Relief.",
+            "thin": "Notwithstanding this Agreement, any breach of the Articles titled “CONFIDENTIALITY”, “INTELLECTUAL PROPERTY”, “LICENCES”, “ACKNOWLEDGEMENTS & COVENANTS”, or “INFRINGEMENT” is a breach of this Agreement that may cause serious and irreparable harm to Commetix.  Any such breach will entitle Commetix to injunctive relief, in addition to all other legal or equitable remedies that may be available."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Anti-Spam Consent.",
+            "thin": "In the event that Canada's Anti-Spam Legislation applies to the installation of the Software and related upgrades, Commetix hereby seeks and the Licensee hereby provides consent to Commetix for such installation and potential future upgrades installation so that the Licensee may use the Software, provided that the Licensee may revoke such consent at any time. The function and purpose of the Software that is to be installed or may have upgrades is described in this Agreement. The mailing address and contact information for Commetix is noted in this Agreement."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Changes to EULA.",
+            "thin": "Commetix reserves the right, at its sole discretion, to change, amend, modify, add or remove terms and conditions contained in this Agreement, at any time, without further notice by posting any changes on the Software.  Any new terms or conditions will be effective as soon as they are posted. It is your responsibility to check this Agreement and the Software periodically and you are deemed to be aware of such changes. Your continued use of the Software and/or the Results following the posting of such changes will mean that you accept and agree to the changes.  If you do not agree to the changes, please stop using the Software and the Results."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Unsolicited Commercial Electronic Messages.",
+            "thin": "The inclusion of any email addresses on the Software, the Results or within this Agreements does not constitute consent to receiving unsolicited commercial electronic messages or SPAM."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Contact Us.",
+            "thin": "If you have any questions, concerns or comments, please contact us at:"
+          },
+          "child": []
+        }
+      ],
+      "order": 11,
       "visible": true
     }
   ],
