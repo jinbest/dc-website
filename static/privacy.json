@@ -6,7 +6,458 @@
     "BY CLICKING “I ACCEPT,” YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THIS AGREEMENT, AND ANY ADDITIONAL TERMS AND CONDITIONS OR FUTURE MODIFICATIONS."
   ],
   "content": "NOW THEREFORE in consideration of the foregoing and the mutual promises, covenants and agreements herein contained, and for other good and valuable consideration, the receipt and sufficiency of which the parties hereby acknowledge, the parties agree as follows:",
-  "data": [],
+  "data": [
+    {
+      "title": "Definitions",
+      "contentBold": false,
+      "children": [
+        {
+          "title": {
+            "bold": "Definitions.",
+            "thin": "The following terms, wherever used in this Agreement, shall have the respective meanings set forth below:"
+          },
+          "child": [
+            {
+              "title": "“Agreement” means this End User Licence Agreement and all of the schedules and appendices attached hereto, and any additional terms, conditions or future modifications as described herein.",
+              "child": []
+            },
+            {
+              "title": "“Canada's Anti-Spam Legislation” means an Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act, as amended.",
+              "child": []
+            },
+            {
+              "title": "“Commetix” means Commetix Systems Inc., a corporation incorporated under the laws of Canada, and includes all of Commetix’s affiliates, subsidiaries, shareholders, officers, directors, agents, representatives, contractors, suppliers, customers, licensors, licensees, partners, employees, successors and assigns, except for the Licensee.",
+              "child": []
+            },
+            {
+              "title": "“Confidential Information” means any and all information, whether disclosed in writing, electronically, orally, in machine readable form or otherwise, of any nature and in any form, and whether or not specifically marked as confidential, including but not limited to, the terms and agreements contained in this Agreement, the information gathered by inspection or heard by the Licensee from an inspection of any property, activities or facilities of Commetix, the Software, the Results, business plans, business strategies, research and development plans, marketing plans, pricing information and any other technical, engineering, manufacturing, product, servicing, personnel, business or financial information, which is provided, developed, made available or disclosed by Commetix to the Licensee, or that the Licensee prepares that contain or otherwise reflect a review of any of the information referred to in this Section.",
+              "child": []
+            },
+            {
+              "title": "“Content Licence” has the meaning assigned to it in Section 4.2(b)",
+              "child": []
+            },
+            {
+              "title": "“Defaulting Party” has the meaning assigned to it in Section 10.2(c).",
+              "child": []
+            },
+            {
+              "title": "“Disagreement” has the meaning assigned to it in Section 11.2.",
+              "child": []
+            },
+            {
+              "title": "“Intellectual Property” means any and all rights in and in relation to any intellectual and industrial property of every nature, under the laws of any country, whether registered or unregistered, including without limitation, improvements, modifications, developments, trade secrets, proprietary information, know-how, derivative works, copyrights, moral rights, databases, data structures, database designs, screenshots, database indices, modules, objects, classes, packages, in-line comments, user interfaces, design documents, test plans and scripts, computer programs, applications and software (whether in source, object code or executable formats) and related documentation and manuals, literary and/or artistic works, compositions, compilations, diagrams, designs, domain names, patents (including without limitation, divisions, reissues, substitutions, prolongations, continuations, re-examinations, continuations in part, renewals, modifications and extensions thereof), trademarks, trade dress, rights under registered user agreements, trade names, corporate names, business names, social media handles, hashtags, keywords and other trademark and service mark rights and goodwill, industrial designs, models and utility models, prototypes, inventions, ideas, data, suggestions,  conceptions, formulations, compounds, methods, discoveries, processes, compositions, research data and results, project plans, notes, testing materials, logs,  drawings, information, findings, results, technologies, materials, formulae, specifications and architecture, data, techniques, instructions, manuals, records, look and feel, integrated circuit topography, studies, blueprints, packaging, reports, files, samples, photographs, graphs, graphics, text files, websites (including all of the related web pages, content, software, information, photographs, images, illustrations, audio clips, video clips, data, code, graphics, text files, icons, titles, objects, concepts, artwork, animations, text, sounds, audio-visual effects, methods of operation and the look and feel of the content and information), drawings, interfaces, screen display, audio visual display or presentation, algorithms, documentation and media, and procedures, in whatever form or medium, including:",
+              "child": [
+                "the benefit of all registrations and applications to register as well as all rights to apply for registration of any of the foregoing items and all rights in the nature of any of the foregoing items, each for their full term (including any extensions or renewals thereof);",
+                "any other statutory protection of whatever kind;",
+                "all such other rights which may be recognized under law, equity, contract or otherwise, to protect technical or other creative contributions or expressions;",
+                "confidential information, know-how and trade secrets;",
+                "all priority rights derived from any of the foregoing items and all rights in the nature of any of the foregoing items for any and all countries in the world; and",
+                "all rights to sue for infringement, misappropriation and/or violation of any of the foregoing items and all rights in the nature of any of the foregoing items, whether arising prior to or subsequent to the date of this Agreement."
+              ]
+            },
+            {
+              "title": "“Licence” has the meaning assigned to it in Section 4.2(a).",
+              "child": []
+            },
+            {
+              "title": "“Licence” has the meaning assigned to it in Section 4.2(a).",
+              "child": []
+            },
+            {
+              "title": "“Licensee” means a person who uses and accesses the Software and/or the Results in any manner.  Such a person is also referred to in this Agreement as “you”.",
+              "child": []
+            },
+            {
+              "title": "“Licensee Content” means any data and information distributed or submitted electronically or otherwise by you via the Software, including but not limited to, brand  name and model of your mobile device, details of any issues you may be having, your correspondence with Commetix, details of your requests.",
+              "child": []
+            },
+            {
+              "title": "“Non-Defaulting Party” has the meaning assigned to it in Section 10.2(c).",
+              "child": []
+            },
+            {
+              "title": "“Requirements” has the meaning assigned to it in Section 7.3.",
+              "child": []
+            },
+            {
+              "title": "“Results” means any and all results, reports and recommendations based on the Licensee Content, user data, analytics and/or user data results that Commetix provides to the Licensee. The term “Results” shall also include any modification or enhancement to the Licensee Content and any Intellectual Property relating thereto by Commetix, and any Intellectual Property made, conceived, acquired, suggested, discovered or developed by Commetix, or under Commetix’s direction, either solely or jointly with others, which relates to, relies on or uses the Licensee Content and all Intellectual Property relating thereto.",
+              "child": []
+            },
+            {
+              "title": "“Software” means the Commetix software and platform, together with (a) all computer programs, software, website, database and/or multi-media content in object code form that are embedded in the said software and platform or delivered to the Licensee separately by Commetix and are designed to be used in conjunction with the said software and platform; and (b) all documentation relating to the said software and platform, including without limitation, manuals, handbooks and any user guides and/or other instructions concerning the access, use and/or operation of the Software.",
+              "child": []
+            },
+            {
+              "title": "“Subscribing Organization” has the meaning assigned to it in Section 2.1.",
+              "child": []
+            },
+            {
+              "title": "“Subscription Fee” has the meaning assigned to it in Section 3.1.",
+              "child": []
+            },
+            {
+              "title": "“Term” has the meaning assigned to it in Section 10.1.",
+              "child": []
+            },
+            {
+              "title": "“Territory” means worldwide.",
+              "child": []
+            }
+          ]
+        }
+      ],
+      "order": 1,
+      "visible": true
+    },
+    {
+      "title": "Subscribing organization",
+      "contentBold": false,
+      "children": [
+        {
+          "title": {
+            "bold": "Subscribing Organization.",
+            "thin": "If you are registering or using the Software or the Results on behalf of, or in connection with, your employment or engagement with a company, entity or organization (collectively, the “Subscribing Organization”), you represent and warrant that you are an authorized representative of that Subscribing Organization with the authority to bind such Subscribing Organization to the terms and conditions of this Agreement, and you hereby do agree to be bound by the terms and conditions of this Agreement on behalf of such Subscribing Organization. In such a case, references to “you” and/or the “Licensee” in this Agreement shall be construed to mean you, the Subscribing Organization, and any other individual that uses the Software or the Results on the Subscribing Organization’s behalf or in connection with their employment with or engagement by such Subscribing Organization. To the extent your Subscribing Organization has a separate transaction agreement with Commetix, that agreement will define the order of precedence between the terms of this Agreement and that separate transaction agreement with respect to such Subscribing Organization, provided that you remain individually bound by the terms and conditions of this Agreement with respect to your use of the Software and the Results."
+          },
+          "child": []
+        }
+      ],
+      "order": 2,
+      "visible": true
+    },
+    {
+      "title": "Fees",
+      "contentBold": false,
+      "children": [
+        {
+          "title": {
+            "bold": "Fees & Payment.",
+            "thin": "Commetix shall charge the Licensee and the Licensee shall pay to Commetix a subscription fee described on our website or in any transaction agreement between you and Commetix (the “Subscription Fee”). The Subscription Fee shall be paid in accordance with this Agreement or any transaction agreement between you and Commetix, plus any applicable taxes (including any goods and services taxes), during the Term.  Commetix reserves the right to change at any time the Subscription Fee without any notice or liability to you or any other person. Any amounts remaining unpaid after the due date shall have interest charged thereon at a rate of 1.5% per month. If and when applicable, the Licensee shall pay all taxes and any related interest or penalty howsoever designated and imposed as a result of the existence or operation of this Agreement, the Results or the Software, except for taxes on the income or profits of Commetix."
+          },
+          "child": []
+        }
+      ],
+      "order": 3,
+      "visible": true
+    },
+    {
+      "title": "Licences",
+      "contentBold": false,
+      "children": [
+        {
+          "title": {
+            "bold": "Delivery.",
+            "thin": "Subject to the terms and conditions of this Agreement:"
+          },
+          "child": [
+            {
+              "title": "Commetix will host the Software on its servers for access and reasonable use by the Licensee; and",
+              "child": []
+            },
+            {
+              "title": "Commetix shall, from time to time and at its sole discretion, provide the Results to the Licensee.",
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": {
+            "bold": "Licences.",
+            "thin": "The parties agree that:"
+          },
+          "child": [
+            {
+              "title": "Subject to the terms and conditions of this Agreement, Commetix hereby grants to the Licensee a personal, revocable, non-exclusive, non-assignable, non-transferable, non-sublicenceable right and licence to access and use the Software and the Results in the Territory for the Term in accordance with this Agreement (collectively, the “Licence”). For clarity, the Licence is personal to the Licensee, and the Licence may not be assigned, transferred or sublicensed to any other person or accessed and used for purposes other than as described in this Agreement. Using the Software and the Results for any other purpose or in any other manner is strictly prohibited. Commetix retains all rights not expressly granted hereunder.  Any access and use of the Software and the Results, other than as specifically authorized under this Agreement, including sublicensing to any person, without the prior written consent of Commetix, is strictly prohibited and may, at the discretion of Commetix, terminate the Licence.",
+              "child": []
+            },
+            {
+              "title": "Subject to the terms and conditions of this Agreement, the Licensee hereby grants to Commetix a royalty-free, fully-paid, perpetual, irrevocable, transferable, sublicenceable, worldwide and non-exclusive right and licence to access, reproduce, copy, distribute, create derivative works of, adapt, translate, transmit, arrange, modify, host, bundle, use and fully exploit the Licensee Content and any Intellectual Property relating thereto (the “Content Licence”). Commetix can grant sublicences with respect to the Content Licence.",
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": {
+            "bold": "Restrictions.",
+            "thin": "The parties agree that:"
+          },
+          "child": [
+            {
+              "title": "The Licensee agrees and covenants (i) to keep all disclaimers and copyright, trademark and other proprietary notices intact on the Software and the Results; (ii) that access and use of the Software and/or the Results does not transfer to the Licensee any ownership or other rights in the Software or the Results; and (iii) to access and use the Software and the Results only in the manner described expressly in this Agreement and subject to all applicable laws.",
+              "child": []
+            },
+            {
+              "title": "The Licensee may not use, modify, enhance, translate, transfer, transmit, disclose, copy, release, communicate, reproduce, provide or make available to any third party, in any way, the Confidential Information, the Results and/or the Software, and all Intellectual Property relating thereto, in whole or in part, except as expressly provided for in this Agreement.  The Licensee shall not copy, use, analyze, translate, convert, reverse engineer, decompile, disassemble or otherwise reduce the Software, the Results and/or the Confidential Information, and all Intellectual Property relating thereto,  to a human readable form, nor shall the Licensee permit any operator, employee, agent, outside consultant or other third party to do any of the foregoing. Any modification or enhancement to the Software, the Results and/or the Confidential Information, and any Intellectual Property relating thereto, other than as specifically authorized under this Agreement, without the prior written consent of Commetix, is strictly prohibited and may, at the discretion of Commetix, terminate the Licence and any Intellectual Property made, conceived, acquired, suggested, discovered or developed by the Licensee, or under the Licensee’s direction, either solely or jointly with others, which relates to, relies on or uses the Software, the Results and/or the Confidential Information, and all Intellectual Property relating thereto, shall be treated as Confidential Information of Commetix and shall be the sole exclusive property of Commetix. The Licensee agrees and covenants to disclose promptly in writing to Commetix any such Intellectual Property.",
+              "child": []
+            },
+            {
+              "title": "The Licensee shall not sell, market, rent, lease, transfer, distribute, sublicense or create derivative works of the Software, the Results and/or the Confidential Information, and all Intellectual Property relating thereto, in whole or in part, to any third party.",
+              "child": []
+            },
+            {
+              "title": "This Agreement shall not be construed as granting or conferring any ownership, security right, title, rights or licences to use or modify in any manner the Software, the Results and/or the Confidential Information, and all Intellectual Property relating thereto, except for the Licence.",
+              "child": []
+            },
+            {
+              "title": "The Licensee agrees and covenants not to assign or grant a sublicence for this Agreement or any rights or licences obtained pursuant to it.  The Licensee has no right to grant sublicences.",
+              "child": []
+            }
+          ]
+        }
+      ],
+      "order": 4,
+      "visible": true
+    },
+    {
+      "title": "Acknowledgements & Covenants",
+      "contentBold": false,
+      "children": [
+        {
+          "title": {
+            "bold": "Acknowledgements.",
+            "thin": "The parties agree that:"
+          },
+          "child": [
+            {
+              "title": "The Licensee agrees and acknowledges the validity of the Software and the Results. The Licensee shall not use or modify the Software or the Results in any manner likely to negate, impair or dilute any of the rights of Commetix. The Licensee shall not, either during the Term or at any time thereafter, contest or dispute or assist another in contesting or disputing, directly or indirectly, the validity, ownership, control or enforceability of any of Commetix’s right, title and interest in and to the Software, the Results and/or the Confidential Information, and all Intellectual Property relating thereto.",
+              "child": []
+            },
+            {
+              "title": "The Licensee agrees that it shall not at any time file any Intellectual Property, secure and/or register any Intellectual Property or maintain any Intellectual Property relating to or arising out of the Software, the Results and/or the Confidential Information, or any Intellectual Property relating thereto.",
+              "child": []
+            },
+            {
+              "title": "The Licensee shall not, to the extent legally enforceable, file any action to challenge or raise any question or objection, or cause to be filed any such action or cause to be raised any such question or objection, to the validity, enforceability, registration or patentability of the Software, the Results and/or the Confidential Information, or any Intellectual Property relating thereto, on any grounds whatsoever.",
+              "child": []
+            },
+            {
+              "title": "The Licensee shall provide to Commetix all such access, assistance and co-operation as is reasonably requested by Commetix in order to facilitate the performance by Commetix of its obligations hereunder.",
+              "child": []
+            },
+            {
+              "title": "The Licensee shall access and use the Software and the Results in a careful and prudent manner in accordance with this Agreement.",
+              "child": []
+            },
+            {
+              "title": "The Licensee shall (a) comply with all laws and directions of Commetix regarding the access and use of the Software and the Results; (b) not, nor shall the Licensee permit any person, other than Commetix’s authorized representatives, to modify, disassemble, perform maintenance on, service or attempt any repair or adjustment to the Software.",
+              "child": []
+            },
+            {
+              "title": "The Licensee agrees to assume the full risk for loss or damage to the Software and/or the Results, however caused, except if caused by the negligent act or omission of Commetix.",
+              "child": []
+            },
+            {
+              "title": "The Licensee shall keep the Software, the Results and the Confidential Information free and clear of any liens or other encumbrances.",
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": {
+            "bold": "Service Level.",
+            "thin": "You shall ensure that your systems include reasonable attacker defences and security measures. Your systems shall be configured with reasonable security measures related to data theft (through SSL encryption) and unauthorized network access from other unlicensed computers within your end users."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Licensee Costs.",
+            "thin": "The Licensee shall be solely responsible for:"
+          },
+          "child": [
+            {
+              "title": "the cost of all necessary servicing, repair or correction of problems caused by viruses or other harmful components, unless such viruses or other harmful components are the direct result of Commetix’s negligence or wilful conduct; and",
+              "child": []
+            },
+            {
+              "title": "the cost of acquiring, installing, operating, servicing, maintaining and updating all equipment, computers, software and communication services not owned or operated by or on behalf of Commetix that allows the Licensee to access and use the Software and the Results.",
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": {
+            "bold": "Availability.",
+            "thin": "The Licensee acknowledges and agrees that the operation and availability of the systems used for accessing, using and interacting with the Software, the Results and/or the Licensee Content, including the public telephone, computer networks and the Internet, or to transmit information whether or not supplied by you or Commetix, can be unpredictable and may, from time to time, interfere with or prevent the access, the use and/or the operation of the Software, the Results and/or the Licensee Content. The Licensee acknowledges and agrees that the bandwidth and servers provided by Commetix are not guaranteed and the Licensee agrees not to use an unreasonable amount of bandwidth or unreasonably burden Commetix’s servers. Commetix is not responsible for any outages at the your premises, including internal network, local infrastructure or facilities, unless directly attributable to Commetix’s negligence or wilful conduct. In the event viruses are detected in your local client environment managed by Commetix, Commetix may be required to secure the systems by denying access to infected users. If the virus infection is traced back to you, you will be invoiced for remedying the virus. The Licensee acknowledges and agrees that the Results may not be available at all times and may contain inaccuracies."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Licensee Content.",
+            "thin": "The Licensee acknowledges and agrees that Commetix has the perpetual and irrevocable right to delete any or all of the Licensee Content and the Results, including any Intellectual Property relating thereto, from Commetix’s servers and from the Software, whether intentionally or unintentionally, and for any reason or no reason, without any liability of any kind to the Licensee or any other party. THE LICENSEE UNDERSTANDS AND AGREES THAT COMMETIX HAS THE RIGHT, BUT NOT THE OBLIGATION, TO REMOVE, IN WHOLE OR IN PART, ANY LICENSEE CONTENT, RESULTS OR OTHER CONTENT RELATED TO THE SOFTWARE, INCLUDING WITHOUT LIMITATION, DATA, ACCOUNT HISTORY AND ACCOUNT CONTENT RESIDING ON COMMETIX’S SERVERS OR SOFTWARE, AT ANY TIME FOR ANY REASON OR NO REASON, WITH OR WITHOUT NOTICE AND WITH NO LIABILITY OF ANY KIND."
+          },
+          "child": []
+        },
+        {
+          "title": {
+            "bold": "Representations & Warranties.",
+            "thin": "When the Licensee distributes or submits the Licensee Content on or through the Software, the Licensee represents and warrants: (1) that the Licensee owns or otherwise controls all of the rights, including moral rights and Intellectual Property rights, to the Licensee Content; (2) that the Licensee can grant or has obtained all rights and consents that are necessary for the Licensee to grant any rights and licences described in this Agreement and relating to the Licensee Content to Commetix, including the Content Licence; (3) that the Licensee Content is accurate and is original to the Licensee and that no other party has any rights thereto; (4) that any and all access, use, submission, modification, transmission, creation of derivative works, adaptation, translation, hosting, bundling, arrangement, distribution and full exploitation of the Licensee Content will not infringe the rights of any third party and will not otherwise cause injury to any person or entity; and (5) that the Licensee will immediately notify Commetix of any Licensee Content that does not comply with this Agreement or may infringe the rights of a third party or third parties."
+          },
+          "child": []
+        }
+      ],
+      "order": 5,
+      "visible": true
+    },
+    {
+      "title": "Intellectual Property",
+      "contentBold": false,
+      "children": [
+        {
+          "title": {
+            "bold": "Ownership.",
+            "thin": "The parties agree that:"
+          },
+          "child": [
+            {
+              "title": "Commetix is the sole and exclusive owner of and shall own all right, title and interest in the Software, the Results and the Confidential Information, and all Intellectual Property relating thereto. The Licensee shall maintain the Software, the Results and the Confidential Information, and all Intellectual Property relating thereto, in confidence, except as otherwise stated in this Agreement. The Software and the Results, and all Intellectual Property relating thereto, shall be treated as the Confidential Information of Commetix.",
+              "child": []
+            },
+            {
+              "title": "The Licensee is the sole and exclusive owner of and shall own all right, title and interest in the Licensee Content.",
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": {
+            "bold": "Assignment of IP.",
+            "thin": "The parties agree that:"
+          },
+          "child": [
+            {
+              "title": "The Licensee assigns and transfers and/or shall cause the assignment and transfer over to Commetix of any right, title and interest, worldwide, it may have or may in the future acquire in and to the Software, the Results and the Confidential Information, and all Intellectual Property relating thereto, without any remuneration.  The Licensee agrees, at the request of Commetix, to do or to cause all lawful acts to secure and protect Commetix’s rights and interests in the Software, the Results and the Confidential Information, and all Intellectual Property relating thereto, without any compensation, and the Licensee agrees, when requested by Commetix, to execute, acknowledge and deliver to Commetix, without compensation, any and all instruments, assignments, waivers and documents relating thereto.",
+              "child": []
+            },
+            {
+              "title": "Commetix assigns and transfers and/or shall cause the assignment and transfer over to the Licensee of any right, title and interest, worldwide, it may have or may in the future acquire in and to the Licensee Content, without any remuneration.",
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": {
+            "bold": "Waiver.",
+            "thin": "The parties agree that:"
+          },
+          "child": [
+            {
+              "title": "The Licensee waives any rights which the Licensee may have in the Software, the Results and the Confidential Information, and all Intellectual Property relating thereto, including moral rights in the Software, the Results and the Confidential Information, and all Intellectual Property relating thereto.",
+              "child": []
+            },
+            {
+              "title": "Commetix waives any rights which Commetix may have in the Licensee Content, including moral rights in the Licensee Content.",
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": {
+            "bold": "IP Notices.",
+            "thin": "The Licensee shall mark in the appropriate place on or within each of the items which bear the Software and/or the Results, an appropriate notice of copyright, trademark or otherwise as stipulated by Commetix from time to time, and a notice that the Licensee is using the same as a “Licensee” or other such designation, as required from time to time by Commetix.  The Licensee shall ensure that all proprietary notices, trademark notices, copyright notices and disclaimers of Commetix, its suppliers or its licensors, as the case may be, on the Software and the Results, as provided to the Licensee by Commetix, are in place and left intact at all times, and are placed in such location or locations as Commetix may reasonably advise."
+          },
+          "child": []
+        }
+      ],
+      "order": 6,
+      "visible": true
+    },
+    {
+      "title": "Confidentiality",
+      "contentBold": false,
+      "children": [
+        {
+          "title": {
+            "bold": "Confidentiality.",
+            "thin": "The parties acknowledge that it shall be necessary for Commetix to disclose or make available to the Licensee the Confidential Information. The Confidential Information shall remain the sole exclusive property of Commetix. Both during and after the termination or expiration of this Agreement, the Licensee:"
+          },
+          "child": [
+            {
+              "title": "covenants to keep the Confidential Information strictly confidential;",
+              "child": []
+            },
+            {
+              "title": "shall make no further use of the Confidential Information upon the return or the destruction of the Confidential Information;",
+              "child": []
+            },
+            {
+              "title": "shall not nor will it assist any other person, directly or indirectly, at any time, to (1) use for itself or others, or divulge to others, the Confidential Information; nor (2) use, publish or sell for its own purposes or for any purpose, other than to carry out its obligations under this Agreement, the Confidential Information;",
+              "child": []
+            },
+            {
+              "title": "shall take all steps and do all things necessary to preserve the value, confidential nature and proprietary nature of the Confidential Information;",
+              "child": []
+            },
+            {
+              "title": "shall immediately notify Commetix of any use, disclosure, transfer or transmission of the Confidential Information or any part thereof which is not in accordance with the terms of this Agreement;",
+              "child": []
+            },
+            {
+              "title": "may make the Confidential Information available to its agents, contractors or employees having a need to know such information solely for the purposes described in this Agreement and only to the extent necessary for such agents, contractors or employees. Prior to making any such disclosure, the Licensee shall provide to Commetix a listing of all persons receiving the Confidential Information and shall cause all such agents, contractors or employees to execute non-disclosure agreements or other agreements containing substantially similar terms and conditions to those contained in this Agreement;",
+              "child": []
+            },
+            {
+              "title": "acknowledges and agrees that, save and except for the purpose of discharging its obligations pursuant to this Agreement and save and except as provided for in this Agreement, it has no right whatsoever to any of the Confidential Information; and",
+              "child": []
+            },
+            {
+              "title": "shall take all reasonable steps to prevent the accidental or intentional disclosure of the Confidential Information to third parties and shall comply with any reasonable request of Commetix with regard to the safeguarding of the Confidential Information.",
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": {
+            "bold": "Exclusions.",
+            "thin": "Information shall not be considered to be Confidential Information if it:"
+          },
+          "child": [
+            {
+              "title": "becomes publicly available through no fault of the recipient;",
+              "child": []
+            },
+            {
+              "title": "at the time communicated by the disclosing party as Confidential Information, was already in the possession of the recipient;",
+              "child": []
+            },
+            {
+              "title": "is lawfully received from a third party having the right to disclose the Confidential Information without restriction; or",
+              "child": []
+            },
+            {
+              "title": "has been independently developed without access to or use of any Confidential Information.",
+              "child": []
+            }
+          ]
+        },
+        {
+          "title": {
+            "bold": "Requirements.",
+            "thin": "If the Licensee becomes compelled to disclose any Confidential Information pursuant to law, regulation or a lawful order or process (collectively, the “Requirements”), the Licensee shall provide Commetix with prompt notice of any such Requirement and shall cooperate with Commetix in seeking to obtain any protective order or other arrangement pursuant to which the Confidential Information is preserved. If such an order or arrangement is not obtained, the Licensee shall disclose only that portion of the Confidential Information as is required pursuant to such Requirement. Any such required disclosure shall not, in and of itself, change the status of the disclosed information as Confidential Information under the terms of this Agreement."
+          },
+          "child": []
+        }
+      ],
+      "order": 7,
+      "visible": true
+    },
+    {
+      "title": "Infringement",
+      "contentBold": false,
+      "children": [
+        {
+          "title": {
+            "bold": "Infringement.",
+            "thin": "The parties agree that:"
+          },
+          "child": []
+        }
+      ],
+      "order": 8,
+      "visible": true
+    }
+  ],
   "footer": {
     "name": "Commetix Systems Inc.",
     "address": "F-2020 Corydon Avenue, Winnipeg, Manitoba, R3P 0N2",
