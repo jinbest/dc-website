@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react"
 import Shape from "./shape"
-import config from "../../static/config.json"
+import config from "../../data/config.json"
 import { Grid } from "@material-ui/core"
 import CustomButton from "../../components/CustomButton"
 import ApiConfig from "../../config/config"

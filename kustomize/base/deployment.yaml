@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: dc-frontend
+  labels:
+    app: dc-frontend
+    version: v1
+spec:
+  selector:
+    matchLabels:
+      app: dc-frontend
+  strategy:
+    type: RollingUpdate
+  template:
+    metadata:
+      labels:
+        app: dc-frontend
+      annotations:
+        sidecar.istio.io/inject: "true"
+    spec:
+      containers:
+        - name: dc-frontend
+          image: gcr.io/${DEV_PROJECT_ID}/dc-frontend
+          ports:
+            - containerPort: 80
+          imagePullPolicy: IfNotPresent
+          resources:
+            requests:
+              cpu: 100m
+              memory: 100Mi
+            limits:
+              cpu: 150m
+              memory: 150Mi

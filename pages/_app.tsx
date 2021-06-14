@@ -1,7 +1,7 @@
 import React from "react"
 import Head from "next/head"
 import type { AppProps } from "next/app"
-import config from "../static/config.json"
+import config from "../data/config.json"
 import "../styles/index.scss"
 
 function MyApp({ Component, pageProps }: AppProps) {

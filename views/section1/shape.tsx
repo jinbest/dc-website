@@ -1,5 +1,5 @@
 import React from "react"
-import config from "../../static/config.json"
+import config from "../../data/config.json"
 
 const Shape = () => {
   return (
