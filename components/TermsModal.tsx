@@ -4,7 +4,7 @@ import { Close } from "@material-ui/icons"
 import Modal from "@material-ui/core/Modal"
 import Backdrop from "@material-ui/core/Backdrop"
 import Fade from "@material-ui/core/Fade"
-import terms from "../static/terms.json"
+import terms from "../data/terms.json"
 import _, { isEmpty } from "lodash"
 
 type Props = {

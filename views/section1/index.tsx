@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react"
 import Shape from "./shape"
-import config from "../../static/config.json"
+import config from "../../data/config.json"
 import { Grid } from "@material-ui/core"
 import CustomButton from "../../components/CustomButton"
 import ApiConfig from "../../config/config"
@@ -81,15 +81,15 @@ const Section1 = () => {
       is_signed_up: false,
     }
 
-    let msg = "Successfully added to the waitlist",
+    let msg = "Email successfully added to the waitlist",
       failed = false
 
     try {
       setIsSubmiting(true)
       await apiClient.post<any>(apiUrl, params)
-    } catch (error) {
+    } catch (error: any) {
       if (error.response.status === 409) {
-        msg = "That email already exist on the waitlist"
+        msg = "Email already exists on the waitlist"
       } else {
         msg = "Something went wrong, failed to add email to the waitlist"
       }

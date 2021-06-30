@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: dc-frontend
+  labels:
+    env: development
+    version: v1
+spec:
+  selector:
+    matchLabels:
+      app: dc-frontend
+  template:
+    spec:
+      containers:
+        - name: dc-frontend
+          image: gcr.io/${DEV_PROJECT_ID}/dc-frontend
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 80

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react"
-import config from "../../static/config.json"
+import config from "../../data/config.json"
 import { Grid } from "@material-ui/core"
 import _ from "lodash"
 import Card from "./card"

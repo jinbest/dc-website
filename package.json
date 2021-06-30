@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint . --ext .ts --ext .tsx"
+    "lint": "eslint . --ext .ts --ext .tsx",
+    "app": "./templater.sh -s unix -p base -c 'skaffold dev --no-prune=false --cache-artifacts=false'",
+    "app:w": "sh templater.sh -s linux -p base -c 'skaffold dev --no-prune=false --cache-artifacts=false'"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.4",

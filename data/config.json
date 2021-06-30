@@ -1,7 +1,7 @@
 {
   "headerData": {
-    "title": "Dc Website",
-    "description": "Device Commerce Website",
+    "title": "Device Commerce",
+    "description": "An all-in-one solution for the device industry",
     "favicon": "/img/header/favicon.ico"
   },
   "header": {
@@ -19,7 +19,7 @@
         "link": "#features",
         "order": 1,
         "visible": true,
-        "icon": "/img/other/arrow-down-dark.svg"
+        "icon": ""
       },
       {
         "name": "Partners",
@@ -445,14 +445,14 @@
     "content": "Intelligent tools to grow your mobile device business. Gain control of your online presence, drive traffic, and serve your customers better.",
     "socials": [
       {
-        "link": "#",
+        "link": "http://facebook.com/DeviceCommerceCA",
         "img": "/img/footer/facebook.svg",
         "title": "",
         "order": 1,
         "visible": true
       },
       {
-        "link": "#",
+        "link": "http://instagram.com/DeviceCommerce",
         "img": "/img/footer/instagram.svg",
         "title": "",
         "order": 2,
@@ -463,7 +463,7 @@
         "img": "/img/footer/twitter.svg",
         "title": "",
         "order": 3,
-        "visible": true
+        "visible": false
       }
     ],
     "data": [

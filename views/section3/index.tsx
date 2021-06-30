@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react"
-import config from "../../static/config.json"
+import config from "../../data/config.json"
 import { Grid } from "@material-ui/core"
 import _ from "lodash"
 import { Sec3ChildParams, Sec3ChildButtonParams } from "../../models/sec3-child-params"

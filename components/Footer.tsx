@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import config from "../static/config.json"
+import config from "../data/config.json"
 import _ from "lodash"
 import { FooterLinkParams, FooterDataParams } from "../models/footer-params"
 import { Grid } from "@material-ui/core"

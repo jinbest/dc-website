@@ -1,5 +1,5 @@
 import React from "react"
-import config from "../../static/config.json"
+import config from "../../data/config.json"
 import _ from "lodash"
 import { Sec5ChildParams } from "../../models/sec5-child-params"
 import ChildCard from "./child-card"
