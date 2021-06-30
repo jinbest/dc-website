@@ -105,7 +105,7 @@ const Section1 = () => {
     }
   }
 
-  const onSubmit = (event: React.MouseEvent<HTMLElement>) => {
+  const onSubmit = (event: any) => {
     event.preventDefault()
     if (value && ValidateEmail(value)) {
       handleSubmitEmail()
@@ -171,7 +171,7 @@ const Section1 = () => {
             animate={openButton ? "open" : "close"}
             variants={variants(1)}
           >
-            <motion.div className="flex justify-between" ref={refButton}>
+            <motion.form className="flex justify-between" ref={refButton} onSubmit={onSubmit}>
               <div className="custom-input">
                 <input
                   value={value}
@@ -186,12 +186,13 @@ const Section1 = () => {
               <CustomButton
                 text={thisPage.button.text}
                 iconName={thisPage.button.iconName}
-                onClick={onSubmit}
+                // onClick={onSubmit}
                 disable={isSubmiting}
+                type="submit"
               >
                 {isSubmiting && <Loading />}
               </CustomButton>
-            </motion.div>
+            </motion.form>
           </motion.div>
 
           <motion.div

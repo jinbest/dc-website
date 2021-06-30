@@ -8,15 +8,26 @@ type Props = {
   onClick?: (event: React.MouseEvent<HTMLElement>) => void
   children?: any
   disable?: boolean
+  type?: "button" | "submit" | undefined | "reset"
 }
 
-const CustomButton = ({ text, iconName, style, className, onClick, children, disable }: Props) => {
+const CustomButton = ({
+  text,
+  iconName,
+  style,
+  className,
+  onClick,
+  children,
+  disable,
+  type,
+}: Props) => {
   return (
     <button
       className={`custom-button ${className ? className : ""}`}
       style={style ? style : {}}
       onClick={onClick}
       disabled={disable}
+      type={type ?? "button"}
     >
       {!children ? (
         <>
